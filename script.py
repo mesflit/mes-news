@@ -18,7 +18,7 @@ SITE_DIR = "site"
 MD_TEMPLATE_FILE = "templates/news_template.md"
 HTML_TEMPLATE_FILE = "templates/page_template.html"
 INDEX_JSON = "news_list.json"
-FETCH_COUNT = 5  # Her çalıştığında kaç yeni haber çekilsin
+FETCH_COUNT = 50  # Her çalıştığında kaç yeni haber çekilsin
 
 def ensure_nojekyll():
     if not os.path.exists(".nojekyll"):
