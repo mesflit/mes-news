@@ -1,9 +1,9 @@
 ---
-title: "{title}"
-date: "{date}"
-source: "{source}"
-source_url: "{link}"
-slug: "{slug}"
+title: {title}
+date: {date}
+source: {source}
+source_url: {link}
+slug: {slug}
 ---
 
 # {title}
