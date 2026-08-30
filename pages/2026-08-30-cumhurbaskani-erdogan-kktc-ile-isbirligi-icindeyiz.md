@@ -1,0 +1,22 @@
+---
+title: Cumhurbaşkanı Erdoğan: KKTC ile işbirliği içindeyiz
+date: 2026-08-30 18:57
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kktc-ile-isbirligi-icindeyiz-1739616
+slug: 2026-08-30-cumhurbaskani-erdogan-kktc-ile-isbirligi-icindeyiz
+---
+
+# Cumhurbaşkanı Erdoğan: KKTC ile işbirliği içindeyiz
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kktc-ile-isbirligi-icindeyiz-1739616)  
+**Tarih:** 2026-08-30 18:57
+
+---
+
+## Haber İçeriği
+
+Cumhurbaşkanı Erdoğan, Kıbrıs'taki feribot faciasına dair ''Kayıplara ulaşmaya yönelik çalışmalar aralıksız devam ediyor. Çalışmalardan olumlu haber almayı ümit ediyoruz." dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, Kara Harp Okulu'nda Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni'nde konuştu.&nbsp;Konuşmasının başında Cumhurbaşkanı Erdoğan, Kıbrıs'ta yaşanan feribot faciasına dair "Girne'den Mersin Taşucu'na seyir halindeyken alabora olan yolcu gemisi dolayısıyla milletimize ve Kıbrıs Türk halkına geçmiş olsun dileklerimi iletiyorum." dedi.&nbsp;Girne'den Mersin'in Taşucu Limanı'na gitmek üzere 30 Ağustos 2026 tarihinde, öğleden sonra hareket eden katamaran tipi Türk yolcu gemisi, kalkışından kısa süre sonra alabora oldu. Kaza sırasında gemide mürettebat dahil 267 yolcu vardı. Saat 16.00 sıralarında verilen bilgilere göre, kazada 7 kişi yaşamını yitirdi, 237 yolcu kurtarıldı, 23 yolcunun arama çalışmaları sürüyor.&nbsp;Erdoğan, KKTC ile işbirliği içinde halinde olduklerını belirterek arama ve kurtarma çalışmalarının aralıksız devam ettiğini bildirdi. Cumhurbaşkanı ‘’Devletin tüm imkanlarını seferber ettiğimiz bu süreci yakından takip ediyoruz.'' dedi.&nbsp;''ZAFERİN 104. YILI KUTLU OLSUN''&nbsp;30 Ağustos Zafer Bayramı’nın 104. yılını kutlayan Erdoğan ''Kahraman ordumuzun milletimiz ile omuz omuza vererek kazandığı zaferin 104. yılı kutlu olsun. Zafere giden yolları ilmek ilmek dokuyan Gazi Mustafa Kemal Atatürk ve ordumuzun tüm neferlerini minnetle yad ediyorum.'' dedi.&nbsp;Cumhurbaşkanı şunları ifade etti: ''Bizim destanlarımız yalnızca kanla değil, şanla şerefle yazılır. Şan ve şeref özellikle de cenk meydanlarında bizim alameti farikamızdır. Bin yıldır vatan uğruna ezanımız bayrağımız, milli değerlerimiz uğruna canlarını feda eden, kanlarını bu millet için döken şehit ve gazilerimize Allah'tan rahmet diliyorum.''&nbsp;''MAZLUMLARIN YARDIMINA SİZLER KOŞACAKSINIZ''&nbsp;Cumhurbaşkanı Recep Tayyip Erdoğan, harp okullarında eğitimlerini tamamlayan toplam bin 276 teğmenin mezun olacağını belirterek, öğrencileri tebrik etti. Dost ve kardeş ülkelerden gelen askeri öğrencilerin de mezuniyet heyecanı yaşadığını söyleyen Erdoğan, genç subaylara görevlerinde başarı diledi.&nbsp;Mezunlara seslenen Erdoğan, “Türkiye Cumhuriyeti'mizi, değerlerimizi şanına yakışır şekilde temsil edeceğinize yürekten inanıyorum” dedi.&nbsp;Türk ordusunun 2 bin 235 yıllık geçmişine dikkati çeken Erdoğan, mezun teğmenlere, “Ordumuzun gücünü sizler artıracaksınız. Kapasitesini ve etki sahasını sizler büyüteceksiniz. Barış, güven ve istikrarı sizler tesis edecek, mazlumların yardımına sizler koşacaksınız.” ifadeleriyle seslendi.&nbsp;Milli Savunma Üniversitesi'nin kuruluşunun 10'uncu yılının kutlandığını belirten Erdoğan, üniversiteye bu yıl 120 bin başvuru yapıldığını söyledi. Erdoğan, 15 Temmuz'un ardından Türk Silahlı Kuvvetleri ve askeri okullarda yapılan düzenlemelere değinerek, “O şerefli üniformaya ihanet eden haysiyetsizleri ordumuzdan ve askeri okullarımızdan temizlemeyi başardık. Biz tüm bu başarıları elde ederken birileri de 15 Temmuz sonrasında ordumuzu yıpratmak için planlar yapıp üniversitemize saldırıyordu.” dedi.&nbsp;''TÜRKİYE ARTIK FARKLI BİR LİGİN OYUNCUSU''&nbsp;Türk ordusunun bugün en güçlü dönemlerinden birini yaşadığını belirten Erdoğan, savunma sanayisinde kara, hava, deniz ve uzay alanlarındaki kritik sistemlerin yerli imkanlarla üretilebildiğini söyledi. Gölcük'te düzenlenen TEKNOFEST'e de değinen Erdoğan, Türkiye'nin geliştirdiği teknolojileri gururla izlediklerini ifade etti.&nbsp;Savunma sanayisindeki gelişmelere ilişkin Erdoğan, “Deyim yerindeyse kendimizle yarışıyoruz. 20-30 yıl önce ülkemiz için güvenlik tehdidi olan aktör ve yapılar, bugün Türkiye ile boy ölçüşecek güç ve ölçekte değil. Türkiye artık farklı bir ligin oyuncusudur” diye konuştu.&nbsp;
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-08-30 18:57 tarihinde otomatik derlenmiştir.*
