@@ -8,7 +8,7 @@ import markdown
 
 RSS_FEEDS = [
     "https://www.merlininkazani.com/feed",
-    "https://www.aa.com.tr/tr/rss/default?cat=guncel",
+    "https://onedio.com/rss",
     "https://feeds.bbci.co.uk/turkce/rss.xml",
     "https://www.ntv.com.tr/gundem.rss"
 ]
