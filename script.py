@@ -18,6 +18,11 @@ MD_TEMPLATE_FILE = "templates/news_template.md"
 HTML_TEMPLATE_FILE = "templates/page_template.html"
 INDEX_JSON = "news_list.json"
 
+def ensure_nojekyll():
+    """GitHub Pages'in Jekyll derleyicisini devre dışı bırakır."""
+    if not os.path.exists(".nojekyll"):
+        open(".nojekyll", "w").close()
+
 def slugify(text):
     tr_map = {'ç': 'c', 'Ç': 'c', 'ğ': 'g', 'Ğ': 'g', 'ı': 'i', 'İ': 'i', 
               'ö': 'o', 'Ö': 'o', 'ş': 's', 'Ş': 's', 'ü': 'u', 'Ü': 'u'}
@@ -68,6 +73,7 @@ def generate_index_html(news_list):
         f.write(full_index)
 
 def fetch_and_build():
+    ensure_nojekyll()
     os.makedirs(PAGES_DIR, exist_ok=True)
     os.makedirs(SITE_DIR, exist_ok=True)
 
@@ -131,4 +137,4 @@ def fetch_and_build():
 
 if __name__ == "__main__":
     fetch_and_build()
-  
+    
