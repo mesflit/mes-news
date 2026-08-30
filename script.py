@@ -9,7 +9,8 @@ import markdown
 RSS_FEEDS = [
     "https://www.trthaber.com/sondakika_articles.rss",
     "https://www.aa.com.tr/tr/rss/default?cat=guncel",
-    "https://feeds.bbci.co.uk/turkce/rss.xml"
+    "https://feeds.bbci.co.uk/turkce/rss.xml",
+    "https://www.ntv.com.tr/gundem.rss"
 ]
 
 PAGES_DIR = "pages"
@@ -17,9 +18,9 @@ SITE_DIR = "site"
 MD_TEMPLATE_FILE = "templates/news_template.md"
 HTML_TEMPLATE_FILE = "templates/page_template.html"
 INDEX_JSON = "news_list.json"
+FETCH_COUNT = 5  # Her çalıştığında kaç yeni haber çekilsin
 
 def ensure_nojekyll():
-    """GitHub Pages'in Jekyll derleyicisini devre dışı bırakır."""
     if not os.path.exists(".nojekyll"):
         open(".nojekyll", "w").close()
 
@@ -32,6 +33,22 @@ def slugify(text):
     text = re.sub(r'[^a-z0-9\s-]', '', text)
     text = re.sub(r'[\s-]+', '-', text).strip('-')
     return text[:60]
+
+def extract_full_content(entry):
+    """RSS ögesinden en detaylı haber metnini ayıklar."""
+    content = ""
+    if hasattr(entry, 'content') and len(entry.content) > 0:
+        content = entry.content[0].value
+    elif hasattr(entry, 'summary_detail') and entry.summary_detail.value:
+        content = entry.summary_detail.value
+    elif hasattr(entry, 'summary'):
+        content = entry.summary
+    elif hasattr(entry, 'description'):
+        content = entry.description
+
+    clean_text = re.sub(r'<[^<]+?>', '', content)
+    clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+    return clean_text if clean_text else "Haber içeriği bulunamadı."
 
 def build_html_from_md(md_content, title):
     body_md = re.sub(r'---[\s\S]*?---', '', md_content).strip()
@@ -46,7 +63,7 @@ def generate_index_html(news_list):
     items_html = ""
     for item in news_list:
         items_html += f'''
-        <div class="card" style="margin-bottom: 15px; background: #1e293b; padding: 20px; border-radius: 8px; border: 1px solid #334155;">
+        <div class="card news-card" data-title="{item['title'].lower()}" data-source="{item['source'].lower()}" style="margin-bottom: 15px; background: #1e293b; padding: 20px; border-radius: 8px; border: 1px solid #334155;">
             <h2 style="margin: 0 0 10px 0; font-size: 1.2rem;"><a href="site/{item['slug']}.html" style="color: #38bdf8; text-decoration: none;">{item['title']}</a></h2>
             <div style="font-size: 0.85rem; color: #94a3b8;">Kaynak: {item['source']} | {item['date']}</div>
         </div>
@@ -57,15 +74,61 @@ def generate_index_html(news_list):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Otomatik Haber Portalı</title>
+    <title>Mes-News | Otomatik Haber Portalı</title>
     <style>
         body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #0f172a; color: #f8fafc; line-height: 1.6; }}
-        h1 {{ border-bottom: 2px solid #334155; padding-bottom: 10px; color: #f1f5f9; }}
+        header {{ border-bottom: 2px solid #334155; padding-bottom: 15px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; }}
+        h1 {{ margin: 0; color: #38bdf8; font-size: 2rem; }}
+        .subtitle {{ color: #94a3b8; font-size: 0.9rem; margin-top: 5px; }}
+        .search-container {{ margin-bottom: 25px; }}
+        .search-input {{ width: 100%; padding: 12px 16px; background: #1e293b; border: 1px solid #334155; border-radius: 8px; color: #f8fafc; font-size: 1rem; box-sizing: border-box; outline: none; transition: border-color 0.2s; }}
+        .search-input:focus {{ border-color: #38bdf8; }}
+        .no-results {{ display: none; text-align: center; color: #94a3b8; padding: 30px; font-style: italic; }}
     </style>
 </head>
 <body>
-    <h1>Son Haberler</h1>
-    {items_html}
+    <header>
+        <div>
+            <h1>Mes-News</h1>
+            <div class="subtitle">Anlık Otomatik Haber Akışı</div>
+        </div>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Haberlerde veya kaynaklarda ara..." onkeyup="filterNews()">
+    </div>
+
+    <main id="newsContainer">
+        {items_html}
+        <div id="noResults" class="no-results">Aramanızla eşleşen haber bulunamadı.</div>
+    </main>
+
+    <script>
+        function filterNews() {{
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            const cards = document.querySelectorAll('.news-card');
+            let visibleCount = 0;
+
+            cards.forEach(card => {{
+                const title = card.getAttribute('data-title');
+                const source = card.getAttribute('data-source');
+
+                if (title.includes(query) || source.includes(query)) {{
+                    card.style.display = 'block';
+                    visibleCount++;
+                }} else {{
+                    card.style.display = 'none';
+                }}
+            }});
+
+            const noResults = document.getElementById('noResults');
+            if (visibleCount === 0 && cards.length > 0) {{
+                noResults.style.display = 'block';
+            }} else {{
+                noResults.style.display = 'none';
+            }}
+        }}
+    </script>
 </body>
 </html>'''
 
@@ -84,56 +147,71 @@ def fetch_and_build():
             except: news_list = []
 
     existing_links = {item.get("link") for item in news_list}
+    existing_titles = {item.get("title") for item in news_list}
 
-    feed = feedparser.parse(random.choice(RSS_FEEDS))
-    if not feed.entries: return
+    all_candidates = []
+    for feed_url in RSS_FEEDS:
+        feed = feedparser.parse(feed_url)
+        source_name = feed.feed.get("title", "Haber Kaynağı")
+        for entry in feed.entries:
+            if entry.link not in existing_links and entry.title not in existing_titles:
+                all_candidates.append((entry, source_name))
 
-    new_entries = [e for e in feed.entries if e.link not in existing_links]
-    if not new_entries: return
+    if not all_candidates:
+        print("Yeni haber bulunamadı.")
+        generate_index_html(news_list)
+        return
 
-    selected = random.choice(new_entries)
-    title = selected.title
-    link = selected.link
-    summary = re.sub(r'<[^<]+?>', '', getattr(selected, "summary", getattr(selected, "description", "Açıklama yok.")))
-    source = feed.feed.get("title", "Haber Kaynağı")
-    pub_date = datetime.now().strftime("%Y-%m-%d %H:%M")
-    slug = f"{datetime.now().strftime('%Y-%m-%d')}-{slugify(title)}"
+    random.shuffle(all_candidates)
+    selected_items = all_candidates[:FETCH_COUNT]
 
     with open(MD_TEMPLATE_FILE, "r", encoding="utf-8") as f:
         md_template = f.read()
 
-    md_content = md_template.format(
-        title=title.replace('"', '\\"'),
-        date=pub_date,
-        source=source,
-        link=link,
-        slug=slug,
-        summary=summary.strip()
-    )
-    
-    md_path = os.path.join(PAGES_DIR, f"{slug}.md")
-    with open(md_path, "w", encoding="utf-8") as f:
-        f.write(md_content)
+    added_count = 0
+    for selected, source in selected_items:
+        title = selected.title
+        link = selected.link
+        full_content = extract_full_content(selected)
+        pub_date = datetime.now().strftime("%Y-%m-%d %H:%M")
+        slug = f"{datetime.now().strftime('%Y-%m-%d')}-{slugify(title)}"
 
-    html_content = build_html_from_md(md_content, title)
-    html_path = os.path.join(SITE_DIR, f"{slug}.html")
-    with open(html_path, "w", encoding="utf-8") as f:
-        f.write(html_content)
+        md_content = md_template.format(
+            title=title.replace('{', '').replace('}', ''),
+            date=pub_date,
+            source=source,
+            link=link,
+            slug=slug,
+            summary=full_content
+        )
 
-    news_list.insert(0, {
-        "title": title,
-        "slug": slug,
-        "link": link,
-        "source": source,
-        "date": pub_date
-    })
-    news_list = news_list[:100]
+        md_path = os.path.join(PAGES_DIR, f"{slug}.md")
+        with open(md_path, "w", encoding="utf-8") as f:
+            f.write(md_content)
+
+        html_content = build_html_from_md(md_content, title)
+        html_path = os.path.join(SITE_DIR, f"{slug}.html")
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(html_content)
+
+        news_list.insert(0, {
+            "title": title,
+            "slug": slug,
+            "link": link,
+            "source": source,
+            "date": pub_date
+        })
+        existing_links.add(link)
+        existing_titles.add(title)
+        added_count += 1
+
+    news_list = news_list[:200]
 
     with open(INDEX_JSON, "w", encoding="utf-8") as f:
         json.dump(news_list, f, ensure_ascii=False, indent=2)
 
     generate_index_html(news_list)
-    print(f"Başarıyla eklendi: {slug}")
+    print(f"Toplam {added_count} yeni haber Mes-News portalına eklendi!")
 
 if __name__ == "__main__":
     fetch_and_build()
