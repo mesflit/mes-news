@@ -9,7 +9,7 @@ import markdown
 RSS_FEEDS = [
     "https://www.merlininkazani.com/feed",
     "https://onedio.com/rss",
-    "https://feeds.bbci.co.uk/turkce/rss.xml",
+    "https://www.donanimhaber.com/rss",
     "https://www.ntv.com.tr/gundem.rss"
 ]
 
