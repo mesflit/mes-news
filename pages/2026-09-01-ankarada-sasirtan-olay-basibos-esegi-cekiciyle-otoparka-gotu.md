@@ -1,0 +1,22 @@
+---
+title: Ankara’da şaşırtan olay. Başıboş eşeği çekiciyle otoparka götürdüler
+date: 2026-09-01 14:56
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-ankarada-sasirtan-olay-basibos-esegi-cekiciyle-otoparka-goturduler-1739894
+slug: 2026-09-01-ankarada-sasirtan-olay-basibos-esegi-cekiciyle-otoparka-gotu
+---
+
+# Ankara’da şaşırtan olay. Başıboş eşeği çekiciyle otoparka götürdüler
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-ankarada-sasirtan-olay-basibos-esegi-cekiciyle-otoparka-goturduler-1739894)  
+**Tarih:** 2026-09-01 14:56
+
+---
+
+## Haber İçeriği
+
+Ankara’da kaybolan eşeğini günlerce arayan Orhan Figan, hayvanının Protokol Yolu’nda bulunup çekiciyle yediemin otoparkına götürüldüğünü öğrendi. Figan, bin 246 lira ceza ödeyerek eşeğini teslim aldı. EŞEĞİNİ ARAYAN ADAM CEZA ÖDEYİP EŞEĞİNİ OTOPARKTAN TESLİM ALDI Ankara’da kaybolduktan sonra Protokol Yolu’na çıkan eşek, vatandaşların ihbarı üzerine polis ekipleri tarafından bulundu. Çekiciyle yediemin otoparkına götürülen eşeğin sahibi Orhan Figan, hayvanının yerini sosyal medyada gördüğü görüntülerden öğrendi. Figan, bin 246 lira ceza ödeyerek eşeğini teslim aldı.&nbsp;Altındağ ilçesinde hayvancılıkla uğraşan Orhan Figan’ı çobanı arayarak, eşeğin gece saat 02.00 sıralarında kaybolduğunu söyledi. Bunun üzerine Figan, çevrede eşeğini aramaya başladı ancak sonuç alamadı.&nbsp;Bu sırada Protokol Yolu’nda başıboş halde dolaşan eşeği gören vatandaşlar durumu polise bildirdi. Bölgeye giden ekipler eşeği bularak çekiciye yükledi ve yediemin otoparkına götürdü. Eşeğin çekiciyle taşındığı anlar çevredekiler tarafından görüntülendi.&nbsp;Eşeğini bulmak için aramalarını sürdüren Figan, dron kullanmasına rağmen sonuç alamadı. Muhtar ve arkadaşlarına da haber veren Figan, bir süre sonra eşeğini bulma ümidini kaybetti.&nbsp;Sosyal medyada yayımlanan görüntüler sayesinde eşeğinin polis tarafından bulunduğunu öğrenen Figan, yediemin otoparkına gitti. Bin 246 lira ceza ödeyen Figan, eşeğini teslim aldı.&nbsp;“EŞEĞİMİ BULAMADIĞIM İÇİN ÇOK ÜZÜLMÜŞTÜM”&nbsp;Yaşadıklarını anlatan Figan, “Çobanım iki gün önce beni arayıp, eşeğin gece 02.00 sıralarında kaybolduğunu söyledi. Ben de hemen eşeği aramaya çıktım. Her yeri aradım ama eşeği bulamadım. Dron yardımıyla bulurum diye dron aldım ama yine bulamadım. Eşeği bulamayınca muhtara, arkadaşlarıma haber verdim. Bulamayınca artık ümidi kestim, eşeğimi bulamadığım için çok üzülmüştüm” dedi. "EŞEĞİMİ NORMAL BİR ARAÇ GİBİ ÇEKİCİYE YÜKLEMİŞLER" Figan, eşeğinin yediemin otoparkında olduğunu sosyal medyadan öğrendiğini söyleyerek, "Arkadaşım eşeğini buldum diyerek gece saatlerinde bana mesaj attı. Nereden buldun?' dedim, yediemin otoparkında dedi, inanmadım. Arkadaşım, bana sosyal medyada bulduğunu söyleyerek, link attı. Linke tıkladıktan sonra bir vatandaşın, eşeğimi Protokol Yolu'nda bulduğunu öğrendim. Vatandaş eşeği bulduktan sonra 112'yi aramış. Polis arkadaşlar kimseye ulaşamayınca çekici çağırmışlar. Eşeği normal bir araç gibi çekiciye yüklemişler. Eşeğe zarar vermeden sıkı bağlamışlar. Sonrasında eşeği yediemin otoparkına indirmişler" dedi.&nbsp;"POLİS ARKADAŞLAR SAĞ OLSUN, EŞEĞİN YEMİNİ SUYUNU VERMİŞLER"&nbsp;Eşiğini teslim almak için gece saatlerinde otoparka gittiğini belirten Figan, "Videoyu gördükten sonra hemen 112'yi aradım, emniyetle görüştüm. Oradaki personel, senin eşeğin yediemin otoparkındadır ama gece saatlerinde kimseyi bulamazsın dedi. Ben de eşeği bulmuşum, almam eşeğimi lazım dedim. Gece saat 02.30 gibi yediemin otoparkına gittim. Polis arkadaşlar sağ olsun, eşeğin yemini ve suyunu vermişler. Polisler eşeğini al ama bunun cezasını sana kesmemiz lazım dediler. Cezamın fişini kestiler, eşeğimi teslim ettiler" dedi. "EŞEĞİMİ BULDUĞUM İÇİN ÇOK MUTLUYUM" Eşeğin sahibi Figan, eşeğin sürüden ayrılma sebebinin yavrusunu aramak olduğunu söyledi.&nbsp;"Benim için eşeğin bu kadar kıymetli olmasının nedeni; sürüyü bırakmamasıdır. Bu davar eşeğidir. Eşeğim biraz kilo alsın ve sıpası da yeteri kadar büyüdüğü için sıpasını başka bir sürüye kattım. Eşeğimde yavrusunu bulmak için gitmiş. Normalde bu eşek kesinlikle davarı bırakmaz. Bu yüzden kaçmış, sağ olsun yediemin otoparkına götürmüşler. Ben de bin 246 lira ceza miktarını ödedim, eşeğimi teslim aldım. Başta ben olmak üzere herkes bu olaya çok şaşırdı. Eşeğimi bulduğum için çok mutluyum. Benim için güzel bir anı oldu."
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-01 14:56 tarihinde otomatik derlenmiştir.*
