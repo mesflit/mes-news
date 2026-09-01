@@ -1,0 +1,22 @@
+---
+title: Batan geminin geçmişi mercek altında
+date: 2026-09-01 18:07
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-batan-geminin-gecmisi-mercek-altinda-1739923
+slug: 2026-09-01-batan-geminin-gecmisi-mercek-altinda
+---
+
+# Batan geminin geçmişi mercek altında
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-batan-geminin-gecmisi-mercek-altinda-1739923)  
+**Tarih:** 2026-09-01 18:07
+
+---
+
+## Haber İçeriği
+
+Girne'de batan Filo Jet'in geçmişteki hasarları tartışılıyor. Bir gemi mühendisi “Tekne yaralıydı” derken, Gemi Mühendisleri Odası kaza nedeninin henüz bilinmediğini belirtti. Haber: Baran Bila. Girne açıklarında batan Filo Jet'le ilgili facianın nedenleri araştırılırken, geminin geçmişte yaşadığı hasarlar ve bakım süreci de gündeme geldi.&nbsp;Filo Denizcilik'i kullanan bazı müşterilerin internette yıllar içinde yaptığı yorumlarda şirketin gemilerinin eski ve bakımsız olduğu öne sürüldü. Yaklaşık 7 yıl öncesine kadar uzanan yorumlarda “Uzak durun”, “Tam bir kabus”, “Pişmanlık” ve “Korkunç ötesi” gibi ifadeler kullanıldı.&nbsp;Bazı müşteriler kırık koltukların fotoğraflarını paylaşırken, bazı yorumlarda ise gemilerdeki kimi bölümlerin motor yağıyla kaplı olduğu iddia edildi.&nbsp;Bu gemilerden biri olan Filo Jet, Girne açıklarında battı.&nbsp;2000 yılında Fransa'da üretilen geminin 2003 yılında Türkiye'ye getirildiği belirtildi. ''GEMİ HASAR ALDI'' Gemi İnşaat Mühendisi Erdal Kılıç, geminin 2003 yılında Taşucu'nda yanaşırken iskele baş omuzluğundan darbe aldığını ve teknenin hasar gördüğünü söyledi.&nbsp;Geminin “sandviç” olarak adlandırılan bir yapıya sahip olduğunu anlatan Kılıç, bu yapının hafif ancak bütünlüğü korunduğu sürece sağlam olduğunu belirtti.&nbsp;Kılıç, yapının arasına su girmesi ve katmanların birbirinden ayrılması durumunda malzemenin özelliğini kaybedebileceğini söyledi.&nbsp;''HASARIN BOYUTU ÇOK BÜYÜKTÜ''&nbsp;Kılıç, 2016 yılında geminin onarımı konusunda dönemin yetkili firmasıyla görüşmeler yaptığını ancak anlaşma sağlanamadığını anlattı.&nbsp;Gemide yaptıkları incelemede hasarın tahmin edilenden daha büyük olduğunun ortaya çıktığını söyleyen Kılıç, “Hasarın boyutunun çok daha büyük olduğu ortaya çıktı. Tekne yaralıydı” dedi.&nbsp;Kılıç, tarafların daha sonra hem ticari koşullarda hem de uygulanacak onarım yöntemi konusunda anlaşamadığını belirterek şöyle konuştu:&nbsp;“Tamir etme konusundaki teknolojiyle anlaşamadık mal sahipleriyle. Ben biraz daha teknenin yapıldığı ilk teknolojisine göre yapma taraftarıydım, onlar daha basit yapmaktan yanaydı.”&nbsp;Kılıç, 2016'dan sonra gemide hangi işlemlerin yapıldığını bilmediğini söyledi.&nbsp;Geminin bir dönem Yunanistan'a gittiğini belirten Kılıç, burada “mükemmel, yepyeni bir tekne” olarak satılmaya çalışıldığını ancak alıcı bulamadığını öne sürdü. Kılıç'ın verdiği bilgiye göre gemi 2024 yılında Türk Loydu Vakfı'nda klaslandı ve ardından Taşucu'nda çalışmaya başladı.&nbsp;Kılıç, geminin yeniden çalıştırılması kararını da eleştirerek, “Aklı başında, vicdanı yerinde olan bir mühendis buna ‘çalışır’ demez.” ifadelerini kullandı. GEMİ MÜHENDİSLERİ ODASI: KAZANIN NEDENİ HENÜZ BİLİNMİYOR Gemi Mühendisleri Odası Genel Sekreteri Ayçın Özsakabaşı ise Kılıç'ın değerlendirmelerine katılmadı.&nbsp;Gemilerin geçmişte çeşitli hasarlar alabileceğini belirten Özsakabaşı, bu tür durumlarda tamirat ve tadilat yapıldığını ve onarımların kontrol edildiğini söyledi.&nbsp;Özsakabaşı, Filo Jet'in de Türk Loydu klaslı olduğuna dikkat çekerek, “Bu gemide geçmişte yaşanan yaralanmalar olabilir, her gemide olabiliyor. Biz bunları tamirat ve tadilattan geçiriyoruz. Bu tamirat da kontrol ediliyor. Gemi Türk Loydu klaslı.” dedi.&nbsp;Özsakabaşı, kazanın nedenine ilişkin farklı ihtimallerin de değerlendirilmesi gerektiğini belirtti.&nbsp;Denizde bulunan 20-30 kilogramlık bir cismin geminin üzerinden geçmesi halinde gövdede bir yırtılmaya yol açabileceğini söyleyen Özsakabaşı, mevcut hasarın nedeninin şu aşamada bilinmediğini vurguladı.&nbsp;Özsakabaşı, “Bu yara durumunun neden kaynaklandığı, Erdal Bey'in dediği gibi kontroller yapılmadı vesaire gibi konular şu an için kimsenin bilmediği konular.” ifadelerini kullandı.&nbsp;Özsakabaşı ayrıca Girne-Mersin arasında sefer yapan gemilerin daha genç olması ve kullanılan malzemenin dalgalara daha dayanıklı olması gerektiğini düşündüğünü söyledi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-01 18:07 tarihinde otomatik derlenmiştir.*
