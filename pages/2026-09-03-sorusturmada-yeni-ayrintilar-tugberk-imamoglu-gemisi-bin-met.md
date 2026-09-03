@@ -1,0 +1,22 @@
+---
+title: Soruşturmada yeni ayrıntılar. Tuğberk İmamoğlu gemisi bin metrede olabilir
+date: 2026-09-03 09:44
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-batan-gemi-bin-metrede-olabilir-arama-calismalair-suruyor-1740105
+slug: 2026-09-03-sorusturmada-yeni-ayrintilar-tugberk-imamoglu-gemisi-bin-met
+---
+
+# Soruşturmada yeni ayrıntılar. Tuğberk İmamoğlu gemisi bin metrede olabilir
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-batan-gemi-bin-metrede-olabilir-arama-calismalair-suruyor-1740105)  
+**Tarih:** 2026-09-03 09:44
+
+---
+
+## Haber İçeriği
+
+Marmara'da batan Tuğberk İmamoğlu gemisinin 800 ile bin 100 metre derinlikte olduğu değerlendiriliyor. Silivri açıklarında iki Türk bayraklı ticari geminin çarpışması sonucu batan geminin bulunduğu bölgede arama kurtarma çalışmaları devam ediyor.&nbsp;Bölgedeki arama kurtarma çalışmaları gece boyunca sürdü.&nbsp;Kaza sonrası Silivri'de İl Afet ve Acil Durum Müdürlüğünce oluşturulan kriz merkezinde ise çalışmalar anlık olarak takip ediliyor. ÇOK SAYIDA EKİP GEMİYİ ARIYOR Çalışmalara Sahil Güvenlik, Kıyı Emniyeti, Deniz Kuvvetleri, AFAD ve Kızılay başta olmak üzere 18 yüzer unsur, 5 helikopter, iki İHA, bir uçak ve su altında arama yapan Deniz Kuvvetlerine ait gemi de katılıyor.&nbsp;Arama kurtarma çalışmalarının takip edildiği bölgede, gemideki mürettebatın aileleri ve yakınları da bekleyişlerini sürdürüyor. ALSU BEKLETİLİYOR Çarpışmadan hasar almadan kurtulan Alsu isimli ticari gemi ise Silivri açıklarında bekletilmeye devam ediyor. SORUŞTURMA SÜRÜYOR Kazaya ilişkin soruşturma da sürüyor.&nbsp;Bu kapsamda yapılan ilk işlemler ortaya çıktı. Öncelikle iki geminin armatör ve işletici şirketleri ile şirket yetkililerine ilişkin bilgiler temin edildi.&nbsp;Şirketlerden kayıt, belge ve dijital verilerin alınması için talimat verildi. ALSU'NUN KAYITLARI ALINDI Kazadan kurtulan Alsu gemisinin seyir, rota ve manevra bilgileri, köprüüstü ve makine dairesiyle ilgili dijital kayıtları muhafaza altına alındı.&nbsp;İstanbul Bölge Liman Başkanlığı’ndan her iki gemiye ait bilgiler ve Kıyı Emniyeti Genel Müdürlüğü’nden de olaydan önceki 12 saati de kapsayan tüm kayıtlar istendi.&nbsp;Telsiz görüşmeleri tutanak altına alındı.&nbsp;Kazayla ilgili gemi kaptanlığı ve gemi inşaat mühendisliği alanlarında bilirkişiler görevlendirilerek ön rapor istendi. DENİZ YÜZEYİNDE KİRLİLİK Batış alanında deniz yüzeyinde kirlilik oluşmaya başladığı da tespit edildi.&nbsp;Bu nedenle sağlık ve çevre tedbirlerinin alınmasına yönelik araştırma ve incelemelerin yapılması talimatı verildi. BATAN GEMİ YÜZLERCE METRE DERİNLİKLE Batan Tuğberk İmamoğlu gemisinin 800 ile bin 100 metre derinlikte olduğu değerlendiriliyor.&nbsp;Bu nedenle delillerin elde edilmesi için bu derinlikte çalışma yapabilecek teknik imkanların belirlenmesi ve temini için de çalışmalar sürüyor. KİMLİKLER ORTAYA ÇIKMIŞTI Batan gemideki mürettebatın kimlikleri de belirlenmişti.&nbsp;İşte aranan 10 kişilik mürettebat:&nbsp;Kaptan: Yaşar Kayhan1'inci Zabıt: Rahmi Temel3'üncü Kaptan: Atakan AlagözBaşmakinist: Aydın Demirci2'nci Makinist: Gencer AydınYağcı: Eyüp Enes CesurGüverte Lostromosu: Nidai DumanUsta Gemici: Nacican KeskinGemici: Onuralp DemirAşçı: Abdülbaki Mirzaoğlu TUĞBERK İMAMOĞLU GEMİSİ HAKKINDA NE BİLİYORUZ? Türkiye bayraklı kargo gemisi, yaklaşık 90 metre uzunluğunda ve 12,8 metre genişliğinde. Son AIS verilerine göre gemi irtibat kesildiği sırada Marmara Denizi'nde seyrediyordu.&nbsp;Gemiden son konum bilgisi yaklaşık 13 saat önce 1 Eylül 2026 saat 19.06'da alındı. Bu sırada gemi motor gücüyle seyir halindeydi.&nbsp;Geminin AIS sisteminde bildirdiği varış noktası Ereğli, Türkiye olarak görülürken, tahmini varış zamanı 3 Eylül 2026 saat 11.00 olarak kaydedilmişti.&nbsp;1990 yapımı gemi, 36 yaşındaydı. NE OLMUŞTU? Kocaeli'den Aliağa'ya seyreden boş durumdaki ALSU tankeri ile İskenderun'dan Karadeniz Ereğli'ye 4199 ton rulo sac taşıyan Tuğberk İmamoğlu isimli kuru yük gemisi dün saat 03.00 sıralarında Silivri açıklarının 18 mil (35 kilometre) güneyinde çarpışmış, içerisinde 10 mürettebatın bulunduğu Tuğberk İmamoğlu isimli gemi batmıştı.&nbsp;Kazanın ardından Tuğberk İmamoğlu, 11 dakika içerisinde sulara gömüldü.&nbsp;Uzman yorumlarında geminin bu kadar hızlı batmasına gerekçe olarak 200 kamyona eş değer demir malzeme yüklü olması gösterildi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-03 09:44 tarihinde otomatik derlenmiştir.*

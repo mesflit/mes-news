@@ -1,0 +1,22 @@
+---
+title: Marmara'daki gemi kazası | Alsu’da bir kişi hariç herkese gözaltı
+date: 2026-09-03 09:44
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-marmaradaki-gemi-kazasi-alsuda-bir-kisi-haric-herkese-sorusturma-1740121
+slug: 2026-09-03-marmaradaki-gemi-kazasi-alsuda-bir-kisi-haric-herkese-gozalt
+---
+
+# Marmara'daki gemi kazası | Alsu’da bir kişi hariç herkese gözaltı
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-marmaradaki-gemi-kazasi-alsuda-bir-kisi-haric-herkese-sorusturma-1740121)  
+**Tarih:** 2026-09-03 09:44
+
+---
+
+## Haber İçeriği
+
+Silivri açıklarında gemi kazasıyla ilgili Alsu adli gemiden aşçı hariç 9 kişi gözaltına alındı. Kocaeli'den Aliağa'ya seyreden boş durumdaki Alsu isimli tanker ile İskenderun'dan Karadeniz Ereğli'ye 4 bin 199 ton rulo sac taşıyan Tuğberk İmamoğlu isimli kuru yük gemisi dün saat 03.00 sıralarında Silivri açıklarının 18 mil (35 kilometre) güneyinde çarpıştı.&nbsp;İçerisinde 10 mürettebatın bulunduğu Tuğberk İmamoğlu isimli gemiyi arama çalışmaları sürüyor.&nbsp;Olayın ardından Silivri Cumhuriyet Başsavcılığı tarafından kazaya ilişkin soruşturma başlatıldı. 9 ŞÜPHELİYE SORUŞTURMA Soruşturma kapsamında, kazaya karışan Alsu gemisinde bulunan 10 kişiden aşçı hariç 9'u hakkında şüpheli işlemi uygulanarak gemide ifadeleri alındı.&nbsp;&nbsp;Soruşturma dosyasının devam etmesi ile geminin güvenliği dikkate alınarak şüphelilerin jandarma eşliğinde gemide muhafaza altına alındığı öğrenildi.&nbsp;Başsavcılıkça, olayda yer alan kişilerin kusur durumlarının tespit edilmesi için bilirkişi heyeti görevlendirildi. Heyetin hazırlayacağı ön raporun bugün öğle saatlerine kadar Başsavcılığa sunulmasının ardından hangi şüphelilerin adliyeye sevk edileceğinin belirleneceği ve mevcutlu olarak adliyede hazır edilmesi için talimat verileceği belirtildi.&nbsp;Gemide bulunan şüphelilere yapılan testlerde alkole rastlanmadığı ve ayrıntılı tetkik için şüphelilere kan testi de yapıldığı öğrenildi. "KURTULDUKLARINA DAİR DELİL YOK" Alsu gemisinin su altında olan kısımlarında dalgıçlar tarafından inceleme yapılacağı bilgisine ulaşıldı.&nbsp;Ayrıca, şüphelilerin ifadelerinde Tuğberk İmamoğlu gemisindeki 2 ya da 3 mürettebatın gemi batmadan önce güverte kısmında olduğunu beyan ettiği, kurtulduklarına ilişkin herhangi bir delil ve emare olmamakla birlikte vefat etmiş olmaları halinde bu kişilerin naaşlarına ulaşma olasılığının bulunduğu ancak henüz geminin enkazına ulaşılamadığı belirtildi. NTV KAZANIN YAŞANDIĞI BÖLGEDE Kazanın yaşandığı Silivri açıklarında son durumu aktaran NTV muhabiri Ali Ablay, insansız hava araçları ve deniz unsurlarının bölgedeki çalışmalarını aralıksız sürdürdüğünü anlattı.&nbsp;Ablay, "Kaza gece 03.15 sıralarında Marmara'nın ortası diyebileceğimiz bir noktada yaşandı. Geminin enkazının yaklaşık bin metre derinlikte olduğu değerlendiriliyor. Nene Hatun Arama Kurtarma Gemisi de bölgede ve çalışmalara destek veriyor." diye konuştu. "GEMİDEN PERSONEL İNDİRİLMEDİ" Arama çalışmalarını bölgede takip eden NTV Muhabiri Ali Ablay, Alsu gemisindeki bilirkişi heyetinin çalışmalarının sürdüğünü aktardı.&nbsp;Mürettebatın ifadelerinin alındığını bildiren Ablay, "Gemiden personel hiç indirilmedi. Jandarma eşlik ediyor." dedi. KİMLİKLER ORTAYA ÇIKMIŞTI Batan gemideki mürettebatın kimlikleri de belirlenmişti.&nbsp;İşte aranan 10 kişilik mürettebat:&nbsp;Kaptan: Yaşar Kayhan1'inci Zabıt: Rahmi Temel3'üncü Kaptan: Atakan AlagözBaşmakinist: Aydın Demirci2'nci Makinist: Gencer AydınYağcı: Eyüp Enes CesurGüverte Lostromosu: Nidai DumanUsta Gemici: Nacican KeskinGemici: Onuralp DemirAşçı: Abdülbaki Mirzaoğlu BATAN GEMİ YÜZLERCE METRE DERİNLİKLE Batan Tuğberk İmamoğlu gemisinin 800 ile bin 100 metre derinlikte olduğu değerlendiriliyor.&nbsp;Bu nedenle delillerin elde edilmesi için bu derinlikte çalışma yapabilecek teknik imkanların belirlenmesi ve temini için de çalışmalar sürüyor.&nbsp;Kazadan kurtulan Alsu gemisinin seyir, rota ve manevra bilgileri, köprüüstü ve makine dairesiyle ilgili dijital kayıtları muhafaza altına alındı. İstanbul Bölge Liman Başkanlığı’ndan her iki gemiye ait bilgiler ve Kıyı Emniyeti Genel Müdürlüğü’nden de olaydan önceki 12 saati de kapsayan tüm kayıtlar istendi.&nbsp;Telsiz görüşmeleri tutanak altına alındı.&nbsp;Kazayla ilgili gemi kaptanlığı ve gemi inşaat mühendisliği alanlarında bilirkişiler görevlendirilerek ön rapor istendi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-03 09:44 tarihinde otomatik derlenmiştir.*
