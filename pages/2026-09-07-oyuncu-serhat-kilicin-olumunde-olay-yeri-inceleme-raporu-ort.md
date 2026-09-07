@@ -1,0 +1,22 @@
+---
+title: Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı
+date: 2026-09-07 09:39
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-kilicin-olumunde-olay-yeri-inceleme-raporu-ortaya-cikti-1740772
+slug: 2026-09-07-oyuncu-serhat-kilicin-olumunde-olay-yeri-inceleme-raporu-ort
+---
+
+# Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-kilicin-olumunde-olay-yeri-inceleme-raporu-ortaya-cikti-1740772)  
+**Tarih:** 2026-09-07 09:39
+
+---
+
+## Haber İçeriği
+
+İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı. İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümüne ilişkin soruşturmada dosyaya yeni ayrıntılar girdi.&nbsp;Emniyet güçlerinin olay yeri inceleme raporunda metal bir kuyu ile valizde bulunan maddelere dikkat çekildi. İstanbul Emniyet Müdürlüğü Olay Yeri İnceleme Şube Müdürlüğü ekiplerinin hazırladığı raporda Kılıç'ın yaşadığı dairenin bulunduğu sitenin girişinde güvenlik görevlisi ve güvenlik kamerası olduğu, giriş çıkışların kontrollü yapıldığı belirtildi.&nbsp;Binanın girişinde de koridoru gören güvenlik kamerası bulunduğu kaydedildi.&nbsp;Rapora göre, dairenin çelik giriş kapısında zorlama izi bulunmadı.&nbsp;Kapıda anahtarın takılı olmadığı görülürken, evin koridorunda ve salon girişinde aynı renk ve desendeki bir tabağa ait kırık parçalar tespit edildi. METAL KUTU VE VALİZDE ŞÜPHELİ MADDELER Raporda, salondaki ahşap sehpa üzerinde bulunan metal kutuda, uyuşturucu olduğu değerlendirilen yeşil renkli otsu bitki bulunduğu belirtildi.&nbsp;Ayrıca poşet içerisinde sigara sarma kağıdı olduğu kaydedildi.&nbsp;Kitaplığın önündeki kumaş valizde de siyah renkli klipsli poşet içerisinde uyuşturucu olduğu değerlendirilen yeşil renkli otsu bitki ile uyuşturucu kullanımında kullanıldığı değerlendirilen rulo haline getirilmiş üç adet 200 liralık banknot bulunduğu ifade edildi. "SAĞLIK DURUMUNUN ÇOK KÖTÜ OLDUĞUNU SÖYLEDİ" Kılıç'ın ölümüyle ilgili soruşturma sürerken, kız arkadaşı Özlem E.'nin olay yerinde savcıya verdiği ifade de ortaya çıktı.&nbsp;Özlem E., ifadesinde şunları söyledi:&nbsp;"- Serhat Mustafa Kılıç arkadaşım olur. Kendisini 8 senedir tanırım. Dizi film oyuncusudur. Kendisiyle en son perşembe günü yani iki gün önce cep telefonu vasıtasıyla görüştük.&nbsp;- Kendisinin oyuncusu olduğu dizi setine sağlık sebeplerinden ötürü gidememesinden dolayı diziden atılması ile ilgili bir durum vardı. Telefonda bu konudan bahsettik.&nbsp;- Bana sağlık durumunun çok kötü olduğunu da söyledi. Son olarak benimle ve dizi setindeki arkadaşlarıyla sağlık sebeplerinden ötürü setlere katılamamasından dolayı tartıştı ve akabinde aramalara cevap vermediğini öğrendim.&nbsp;- Ancak kendisinin huyu gereği küstüğü insanlarla 5-6 gün boyunca iletişim kurmadığı zamanlar olurdu. Bundan dolayı perşembe günü kendisine ulaşamadıktan sonra bu durumdan pek de şüphelenmedim." "BOYUN FITIĞI TEDAVİSİ GÖRÜYORDU" Özlem E. ifadesinin devamında, "Normalde Pazartesi günü kendisinin yanına gidip bir ihtiyacı olup olmadığını kontrol edecektim. Ancak bugün birden içime doğdu ve kendisinin yanına gitmek istedim." dedi.&nbsp;Eve yedek anahtarla girdiğini anlatan Özlem E., "Yerde kırık tabak parçaları bulunmaktaydı. İçerisi oldukça soğuktu ve klima açıktı. Kendisine dokunduğumda vücudunun sert olduğunu anladım ve öldüğüne kanaat getirdikten sonra polis ekiplerine haber verdim." diye konuştu.&nbsp;Özlem E., yaşamını yitiren sanatçının son zamanlarda Şişli'de özel bir hastanede boyun fıtığı nedeniyle tedavi gördüğünü de söyledi. "UYUŞTURUCU MADDE KULLANDIĞINI BİLİRİM" Emniyette, Kılıç'ın madde ve alkol bağımlılığı olmadığını söyleyen Özlem E., savcıya verdiği ifadede ise "Kendisini tanıdığım süreden beri uyuşturucu madde ve alkol kullandığını bilirim." dedi.&nbsp;Özlem E., "Son 6 aydır bildiğim kadarıyla kokain maddesini de kullanmaktadır. Husumetli olduğu birisi yoktur." şeklinde konuştu. NE OLMUŞTU? Birçok başarılı yapımda yer alan 51 yaşındaki Serhat Mustafa Kılıç, cumartesi günü akşam saatlerinde evinde ölü bulunmuştu.&nbsp;Göz çevresinde, kol ve bacaklarında morluklar tespit edilen Serhat Kılıç'ın kesin ölüm nedeninin belirlenmesi için inceleme başlatılmıştı.&nbsp;İddialara göre kız arkadaşı Kılıç'ın kanser tedavisi gördüğü bilgisini verdi ancak ilk bilgiler oyuncunun troid dışında rahatsızlığı olmadığı yönündeydi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-07 09:39 tarihinde otomatik derlenmiştir.*
