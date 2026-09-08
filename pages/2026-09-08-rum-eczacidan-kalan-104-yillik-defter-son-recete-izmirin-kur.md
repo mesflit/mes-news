@@ -1,0 +1,22 @@
+---
+title: Rum eczacıdan kalan 104 yıllık defter: Son reçete İzmir’in kurtuluşundan bir gün önce
+date: 2026-09-08 09:08
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-rum-eczacidan-kalan-104-yillik-defter-son-recete-izmirin-kurtulusundan-bir-gun-once-1740903
+slug: 2026-09-08-rum-eczacidan-kalan-104-yillik-defter-son-recete-izmirin-kur
+---
+
+# Rum eczacıdan kalan 104 yıllık defter: Son reçete İzmir’in kurtuluşundan bir gün önce
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-rum-eczacidan-kalan-104-yillik-defter-son-recete-izmirin-kurtulusundan-bir-gun-once-1740903)  
+**Tarih:** 2026-09-08 09:08
+
+---
+
+## Haber İçeriği
+
+Rum eczacının İzmir’in kurtuluşundan bir gün önce son kaydı düştüğü 104 yıllık reçete defteri 3 kuşaktır korunuyor. Eczacının torunları da ailelerinin izini sürmek için o eczaneyi ziyaret ediyor. SON KAYIT KURTULUŞTAN BİR GÜN ÖNCE İzmir’in Basmane semtindeki tarihi Halk Eczanesi’nde korunan ve son kaydı 8 Eylül 1922’de tutulan reçete defteri, kentin kurtuluşundan önceki günlere ışık tutuyor.&nbsp;Konak ilçesindeki eczane, Kurtuluş Savaşı öncesinde Rum eczacı Tholoos’a aitti. Cumhuriyet’in ilanının ardından 1923 yılında devlet tarafından Ali Bey’e tahsis edilen eczanenin yıkıntıları arasında Tholoos’a ait bir reçete defteri bulundu. 1923 YILINDAN BERİ AYNI ECZANE Fransızca tutulan defterde ağırlıklı olarak Rum hastaların isimleri yer alırken, az sayıda Türk, Ermeni, Yahudi ve Levanten hastanın da kaydı bulunuyor.&nbsp;Tholoos’un deftere düştüğü son kayıt ise İzmir’in kurtuluşundan bir gün önce, 8 Eylül 1922 tarihini taşıyor.&nbsp;Defteri koruma altına alan Ali Bey, ilerleyen yıllarda boş kalan sayfalara kendi notlarını da yazdı. Böylece reçete defteri, farklı dönemlerden kayıtların bir araya geldiği tarihi bir belge olarak muhafaza edildi.&nbsp;Ali Bey’in ölümünün ardından Halk Eczanesi’ni oğlu Cengiz Dermancı, daha sonra ise üçüncü kuşak temsilcisi torunu Ali Dermancı (57) devraldı. ECZANEDE ÜÇ KUŞAKTIR HİZMET VERİYORLAR Üç kuşaktır Dermancı ailesinin koruduğu asırlık reçete defteri, İzmir’in kurtuluş günlerine uzanan hafızayı günümüze taşıyor&nbsp;Ali Dermancı, eczacılık fakültesinden 1992 yılında mezun olduğunu, 32 yıldır dedesinin eczanesinde çalıştığını söyledi. Dermancı, kızının da eczacılık fakültesinde okuduğunu, dördüncü nesil olarak yetiştiğini söyledi. DEFTERDE İZMİR’İN FARKLI TOPLUMLARINDAN HASTALARIN İSİMLERİ VAR Dedesinin mesleğe başlama ve eczanenin kuruluş sürecini anlatan Dermancı, "Dedem Makedonya'dan İstanbul'a gelerek eczacılık fakültesi okuyor. Okul bittikten sonra tekrar Makedonya'ya dönüyor. 1922 yılında tekrar Türkiye'ye dönerek bir süre Manisa Turgutlu'da çalışıyor. Ardından İzmir'de bir eczane açmaya karar veriyor. Şimdiki kanuna benzer şekilde o zamanda da eczane açarken nüfus ve mesafe sınırı varmış. Tilkilik, Agora uygun değilmiş, dedem de Kapılar semtinde eczane açmaya karar vermiş. Bu bölgede 1923 yılından beri hizmet vermekteyiz. Önce dedem, sonra babamla ve ardından ben" dedi. "DEDEM, RUM ECZACININ KALDIĞI YERDEN BÖLGEYE HİZMET VERMİŞ" “Dedem 1923'te eczaneyi işletmeye başlıyor fakat 1922'de aynı yerde bir Rum eczacı hizmet vermekteymiş. Ona ait de bir reçete kayıt defteri hala ailemizde. Rum eczacı 8 Eylül 1922'ye kadar reçete kaydetmiş, fakat 9 Eylül ve sonrası yok. Bu 9 Eylül 1922 tarihinin anlamını ve önemini belirten kanıt niteliğinde bir belge.”&nbsp;Rum eczacının defteri Fransızca ve Latince tuttuğunu söyleyen Dermancı, "Rum eczacı İzmir'in o anki nüfusuna paralel olarak Rum, Ermeni olmak üzere her sınıftan insana hizmet vermekteymiş. Dedem 1923'ten itibaren de Rum eczacının kaldığı yerden bölgeye hizmet vermiş" dedi. "RUM ECZACININ TORUNLARI 2006'DAN BERİ ECZANEYİ ZİYARET EDİYOR" Rum eczacının torunlarının eczaneyi ziyaret ettiğini söyleyen Dermancı, "Torunlarından biri eczacıymış, serbest eczacılık yapmıyor ancak sektörün başka alanlarında çalışıyor. 2-3 kez ziyaret ettiler. Defteri gördüler, fotoğraflarını çektiler. Onlarla iletişimimiz kısıtlı da olsa da hala görüşmekteyiz. En son 1 hafta 10 gün önce Türkiye'deydiler ve bizi tekrar ziyaret ettiler. İlk defa 20 yıl önce, 2006 yılında gelmişlerdi. Olumsuz duyguları yoktu, geçmişleriyle bağlantı kurmakla ilgili bir zaman ve mesai harcıyor gibiydiler. Benim hissettiğim oydu. Bilginin peşine düştüler. Biz de elimizden geldiği kadar yardımcı olduk. Özellikle defter onlar için önemliydi" dedi. ASIRLIK ECZANENİN GEÇMİŞTEN BİR FOTOĞRAFI
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-08 09:08 tarihinde otomatik derlenmiştir.*
