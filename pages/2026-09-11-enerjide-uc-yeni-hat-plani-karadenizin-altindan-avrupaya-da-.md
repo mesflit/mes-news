@@ -1,0 +1,22 @@
+---
+title: Enerjide üç yeni hat planı: Karadeniz’in altından Avrupa’ya da uzanacak
+date: 2026-09-11 21:15
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-enerjide-uc-yeni-hat-plani-karadenizin-altindan-avrupaya-da-uzanacak-1741432
+slug: 2026-09-11-enerjide-uc-yeni-hat-plani-karadenizin-altindan-avrupaya-da-
+---
+
+# Enerjide üç yeni hat planı: Karadeniz’in altından Avrupa’ya da uzanacak
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-enerjide-uc-yeni-hat-plani-karadenizin-altindan-avrupaya-da-uzanacak-1741432)  
+**Tarih:** 2026-09-11 21:15
+
+---
+
+## Haber İçeriği
+
+Türkiye ile Azerbaycan, enerji işbirliğini elektrik alanında genişletmek için üç proje üzerinde çalışıyor. Azerbaycan'ın başkenti Bakü'de 5. Azerbaycan-Türkiye Enerji Forumu yapıldı.&nbsp;Foruma, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Azerbaycan Enerji Bakanı Perviz Şahbazov katıldı.&nbsp;Azerbaycan Devlet Petrol Şirketi (SOCAR) Başkanı Rövşen Necef, Azerenerji Yönetim Kurulu Başkanı Baba Rzayev, Boru Hatları ile Petrol Taşıma AŞ (BOTAŞ) Genel Müdürü Abdulvahit Fidan, Türkiye Petrolleri Anonim Ortaklığı (TPAO) Genel Müdürü Cem Erdem ve Türkiye Elektrik İletim AŞ (TEİAŞ) Genel Müdürü Mustafa Pustu da forumda yer aldı.&nbsp;Forumda hidrokarbon ve petrokimya, enerji verimliliği, elektrik enerjisi piyasası, yenilenebilir enerji, düzenleme, madencilik ve diğer alanlarda görüşmeler yapıldı.&nbsp;Etkinliğin sonunda Bayraktar ve Şahbazov, forumun protokolünü imzaladı. Bayraktar, forum sonrasında düzenlenen basın toplantısında, Azerbaycan ile Türkiye arasındaki enerji işbirliğinin petrol ve doğal gaz ağırlıklı yapısının özellikle son birkaç yıldır elektrik odaklı bir dönüşüme girdiğini belirtti.&nbsp;Petrol ve doğal gaz alanındaki işbirliğinin artarak devam ettiğini ifade eden Bayraktar, şu ifadeleri kullandı:&nbsp;"Orada hakikaten tarihi işler yaptık. Avrupa'nın arz güvenliği için şu anda Türkiye, Azerbaycan'la birlikte çok önemli bir rol oynuyor. Artık mevcut enerji altyapımızı nasıl tam kapasiteye çıkarabileceğimizi konuşuyoruz. Mevcut altyapılarımızın en üst düzeyde kullanılması birinci öncelikli konularımızdandır."&nbsp;Bayraktar, SOCAR'ın Türkiye'de ve üçüncü ülkelerde ortaklaşa yapacağı arama projelerini istişare ettiklerini belirterek, "Buralarda da somut projeleri inşallah ortaya koyacağız. Her yıl aslında yeni projeleri hayata geçiriyoruz." diye konuştu.&nbsp;Azerbaycan'ın 16 ülkeye doğal gaz ihraç ettiğini belirten Bayraktar, TANAP'ın faaliyete geçtiği günden bu yana 100 milyar metreküp gaz seviyesine ulaştığını bildirdi. Bayraktar, dünyanın elektrikleştiği ve elektrik çağına girdiği bir dönemde ilişkilerde bunun daha fazla öne çıkmaya başladığını ifade ederek, "Özellikle üç proje hakkında çalışıyoruz. Nahçıvan üzerinden Türkiye elektrik iletim hattının gelmesi, Türkiye-Gürcistan-Azerbaycan-Bulgaristan'ın dörtlü yeşil enerji koridoru ve Karadeniz'in altından yine Avrupa'ya gidecek elektrik iletim hattı. Bu üç hatla beraber aslında Türkiye ve Azerbaycan dünyaya ve bölgeye yeni şeyler öneriyor." dedi.&nbsp;Azerbaycan'ın Özbekistan ve Kazakistan'la gerçekleştirdiği anlaşmalara da değinen Bayraktar, Türk dünyasının bir araya gelmesi ve buradaki kaynakların Türkiye'ye, buradan da Avrupa'ya uzanmasıyla ilgili projelere yoğun şekilde çalıştıklarını söyledi. Azerbaycan Enerji Bakanı Şahbazov da iki ülke arasında hayata geçirilen büyük projelerin yalnızca Azerbaycan ve Türkiye'nin refahına değil, geniş bir bölgenin ve küresel enerji piyasasının tüm katılımcılarına katkı sağladığını belirtti.&nbsp;İşbirliğinin Avrupa Birliği'nin enerji güvenliğine de büyük katkı sunduğunu ifade eden Şahbazov, son yıllarda 16 ülkeye doğal gaz tedarik ettiklerini söyledi.&nbsp;Şahbazov, "Çalışıyoruz, bugünkü işlerimizi de devam ettirelim, ancak bununla birlikte geleceğe bakalım, bizi gelecekte ne bekliyor, hangi zorluklar var, görelim. Tam da burada petrol ve doğal gaz alanındaki başarılı işbirliğimizi elektrikleşmeye doğru taşımak istiyoruz." dedi.&nbsp;Yeni elektrik çağının başlamasıyla dijitalleşme ve yapay zekanın geliştirilmesinin büyük miktarda enerji, özellikle elektrik enerjisi gerektireceğini belirten Şahbazov, bu alanda büyük planlar yaptıklarını kaydetti.&nbsp;Şahbazov, yalnızca elektrik enerjisi üretimini değil, elektrik bağlantılarını da görüştüklerini belirterek, "Biz Azerbaycan ve Türkiye üzerinden büyük bir bölgeyi, Avrasya'yı birbirine bağlamak istiyoruz." diye konuştu.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-11 21:15 tarihinde otomatik derlenmiştir.*
