@@ -1,0 +1,22 @@
+---
+title: Kaşif Kozinoğlu'nun mezarı bugün açılmayacak
+date: 2026-09-11 11:45
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-kasif-kozinoglunun-mezari-bugun-acilmayacak-1741311
+slug: 2026-09-11-kasif-kozinoglunun-mezari-bugun-acilmayacak
+---
+
+# Kaşif Kozinoğlu'nun mezarı bugün açılmayacak
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-kasif-kozinoglunun-mezari-bugun-acilmayacak-1741311)  
+**Tarih:** 2026-09-11 11:45
+
+---
+
+## Haber İçeriği
+
+Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturmada mezarının bugün açılması bekleniyordu. Savcılıktan gelen bilgiye göre feth-i kabir işlemi ertelendi. Ergenekon soruşturmasında tutuklu bulunduğu sırada, 2011 yılında Silivri'deki cezaevinde yaşamını yitiren eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma sürüyor.&nbsp;Silivri Cumhuriyet Başsavcılığı'nın talebi üzerine, Kozinoğlu'nun kesin ölüm sebebinin ve ölümünde üçüncü kişilerin müdahalesi bulunup bulunmadığının belirlenmesi amacıyla feth-i kabir işlemi yapılacaktı.&nbsp;&nbsp;Ümraniye'deki Kocatepe Mezarlığı'ndan son bilgileri aktaran NTV muhabiri Osman Terkan, "Beklenti bugün feth-i kabir işleminin yapılacağı yönündeydi. Savcılık kaynaklarından gelen bilgilere göre feth-i kabir işleminin ertelendiği ifade edildi." dedi. FARKLI BİR İLAÇ VERİLDİ Mİ? İşlem 3 adli tıp uzmanı, bir kimyager ve bir otopsi teknikerinden oluşan heyet tarafından gerçekleştirilecek.&nbsp;Alınacak kemik, toprak ve diğer örnekler, ceza infaz kurumu kamera görüntüleri, 112 kayıtları ve hastane belgeleri birlikte değerlendirilecek.&nbsp;İncelemelerin ardından Adli Tıp Kurumu Birinci İhtisas Kurulunca, Kozinoğlu'nun kesin ölüm sebebi ve üçüncü kişi müdahalesi bulunup bulunmadığına ilişkin mütalaa düzenlenecek.&nbsp;Mezarı 15 yıl sonra açılacak Kozinoğlu’ndan doku örnekleri alınacak ve cezaevinde kendisine farklı bir ilaç verilip verilmediği araştırılacak. İKİNCİ DALGA OPERASYON Kozinoğlu'nun şüpheli ölümüne ilişkin ilk operasyon 7 Eylül Pazartesi günü yapılmıştı ve cezaevinde görev yapan 11 kişi hakkında gözaltı kararı verilmişti.&nbsp;Şüphelilerden 10'u gözaltına alınırken, birinin yurt dışında firari olduğu bildirilmişti. İlk operasyonda gözaltına alınan 10 şüpheliden o dönemde jandarma er olarak görev yapan şüpheli tutuklandı. 7 şüpheli hakkında adli kontrol kararı verildi.&nbsp;İkinci dalga operasyon da dün gerçekleştirildi. Operasyonda biri kameraman, biri muhabir ve sağlık çalışanlarının da aralarında olduğu 9 şüpheli gözaltına alındı. BAKAN GÜRKEK: CİNAYET İHTİMALİ MASADA Adalet Bakanı Akın Gürlek de gazetecilere yaptığı açıklamada "Kozinoğlu, devletimizin yetiştirdiği müstesna isimlerden ve önemli bir devlet görevlisiydi. Maalesef o dönemde Ergenekon kumpası kapsamında tutukluluk süreci geçirirken sağlıklı, spor yapan ve öz bakımına dikkat eden bir kişi olmasına rağmen şüpheli şekilde hayatını kaybetti." değerlendirmesini yaptı.&nbsp;Bakan Gürlek, ilerleyen süreçte tablonun daha net ortaya çıkacağını düşündüğünü kaydetti.&nbsp;"Kozinoğlu örgütün hedefi haline getirilmiş olabileceğine ilişkin değerlendirmeler de dosyada inceleniyor." ifadelerini kullanıp Ölümünün kesin sebebine ilişkin tartışmalar var. Zehirlenme mi, kalp krizi mi, bir ilaç etkisi mi yoksa doğal ölüm mü? Bunların hepsi bilimsel ve adli verilerle inceleniyor." dedi. KAŞİF KOZİNOĞLU'NUN ŞÜPHELİ ÖLÜMÜ Kaşif Kozinoğlu eski bordo bereli subay ve MİT mensubuydu.&nbsp;Bosna-Hersek, Afganistan'da uzun süreli görev yapan Kozinoğlu, Afganistan’dan Türkiye'ye dönünce 2011'de tutuklandı.&nbsp;Kozinoğlu,12 Kasım 2011'de cezaevinde spor sonrası kalp krizi geçirerek hayatını kaybetti. Kozinoğlu'nun mahkemeye çıkmasına 13 gün olduğu dikkat çekmişti.&nbsp;Kozinoğlu ailesi, "Sporcuydu, ölümü normal değil, araştırılsın." diyerek itiraz etti ancak açılan soruşturma bir yıl sonra kapandı. FETÖ İDDİASI İddiaya göre, Kozinoğlu kalp krizi geçirdiği sırada yardım istiyor ancak gardiyan Ferhat Veysi Gül bu sesin duyulmasını engellemek için radyonunsesini açıyor. Daha sonra Gül'ün FETÖ üyesi olduğu ve 15 Temmuz'dan sonra yurt dışına kaçtığı ortaya çıkıyor.&nbsp;Bu iddialar ve eski soruşturmaların gündeme gelmesi üzerine dosya yeniden açıldı.&nbsp;FETÖ ile ilgili çok önemli bilgilere sahip olan Kozinoğlu'nun zehirlenmiş olabileceği öne sürülüyor.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-11 11:45 tarihinde otomatik derlenmiştir.*
