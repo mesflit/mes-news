@@ -1,0 +1,22 @@
+---
+title: Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma talebi
+date: 2026-09-11 15:14
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-karsiliginda-anlasma-talebi-1741419
+slug: 2026-09-11-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-kars
+---
+
+# Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma talebi
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-karsiliginda-anlasma-talebi-1741419)  
+**Tarih:** 2026-09-11 15:14
+
+---
+
+## Haber İçeriği
+
+Oğuz Murat Aci'nin ölümüne ilişkin davada Timur Cihantimur'un avukatı, Aci'nin eşiyle tazminat karşılığında anlaştıklarını, diğer müştekilerle de anlaşmak istediklerini söyledi. Eyüpsultan'da 1 Mart 2024'te o dönem 17 yaşında olan ehliyetsiz sürücü Timur Cihantimur'un kontrolündeki aracın yol kenarında arıza nedeniyle park halindeki 3 adet ATV tipi araca çarptığı kazada 29 yaşındaki Oğuz Murat Aci hayatını kaybetmesine ilişkin davanın görülmesine devam edildi. Gaziosmanpaşa 4. Ağır Ceza Mahkemesi'nde görülen duruşmaya, iade süreci henüz tamamlanmayan ABD'de tutuklu sanık Cihantimur katılmazken, müştekiler Özer ve Pervin Aci ile tarafların avukatları hazır bulundu. Duruşmada, olay sırasında kazaya şahit olan tanıkların beyanları alındı.Duruşmada, ‘tanık' sıfatıyla beyanda bulunan Hasan Topal, ATV araçlarla aralarında Oğuz Murat Aci'nin de bulunduğu 5 araçla yola çıktığını belirterek, "Yola çıktıktan sonra Kemerburgaz sapağında benzin aldık. Süleyman Keçici arkadaşımızın aracı arızalandı. Biz, Oğuz abinin aracının yönünü değiştirerek, ışıklarını yaktık, karşıdan gelen aracın bizi fark etmesi için. Tam arızayı giderdikten sonra fren ve kayma sesi duydum. O darbeyle ben kendimi kaybettim. Yerde yattığımı hatırlıyorum. O andan sonrasını tam hatırlamıyorum" ifadelerini kullandı. ''ARAÇ GÖRMEMİZLE BİZE ÇARPMALARI BİR OLDU'' Tanık Süleyman Keçici ise orman yolunda yakıt aldıktan sonra ATV aracının arızalandığını belirterek şunları söyledi: "Biz aracı tamir etmeye çalıştık. Orman karanlıktı, rahmetli Oğuz Murat Aci aracını çevirdi, gelen araçlara ışık olsun, fark etsinler diye. Kaza öncesinde bir iki araç yanımızdan geçmişti. Onlar ışığı gördüğü için yavaşlamış, hatta bir araç durup yardım etmek istemişti. O araç geçtikten sonra virajda bir araç görmemizle, bize çarpmaları bir oldu.&nbsp;Kaza sırasında bayılmışım, uçurumun biraz aşağısına düşmüşüm. Kendi çabamla dışarı çıktım. İbrahim Gümüş isimli arkadaşım yanıma geldi. Tahsin isimli arkadaşımız bir arabanın altındaydı. Tahsin'i çıkardıktan sonra Oğuz'un ortalıkta olmadığını fark ettim. Benim düştüğüm yere baktım, benim düştüğüm yerin yakınında Aci yan yatıyordu. Sonra sağlık ekipleri geldi."&nbsp;Müşteki Pervin Aci, tanık Süleyman Keçici'ye, "Siz, bir bayana, ‘beni çıkarır mısınız' demişsiniz, bayan ise ‘benim ayaklarıma diken batar' demiş. Bu ifadeniz doğru mu?" şeklinde soru yöneltti. Tanık Keçici soruyu, "Ben hatırladığım her şeyi anlattım. Böyle bir beyanım ifadelerimde yok. Böyle bir şey yaşanmadı" dedi.&nbsp;Cumhuriyet Savcısı tanığa, aracın dönemece girip, müştekilere çarpma arasındaki süreyi sordu. Tanık Keçici, "2 saniye içerisinde yaşandı her şey. Ben en başta 120-130 kilometre hızla geldiğini düşünüyorum" şeklinde konuştu. Savunma yapan sanık avukatları, tanıkların beyanları arasına çelişki olduğunu, kazada müştekilerin kusurlu olduğunu iddia ederek, kazaya ilişkin ek rapor alınmasını talep etti.&nbsp;Öte yandan, sanık Timur Cihantimur'un avukatı, hayatını kaybeden Oğuz Murat Aci'nin eşi ile tazminat karşılığında anlaştıklarını, aynı şekilde diğer müştekiler ile de belli bir tazminat karşılığında anlaşmak istediklerini belirtti. DURUŞMA 2 ARALIK'A ERTELENDİ Duruşmada, mahkeme başkanı, kazaya ilişkin yeni bir rapor alındığını, raporda kaza ile ölüm arasında illiyet bağı olduğunu ve raporun dava dosyasına eklendiğini söyledi.&nbsp;Rapora ilişkin beyanda bulunan müşteki baba Özer Aci, "Rapora katılıyorum, kaza ile ölüm arasında bağ vardır. Kazanın olduğu yerden defalarca geçtim. O yol maksimim 90 kilometre hızla gidilebilir bir yer" dedi.&nbsp;Ara kararını açıklayan mahkeme, sanık Timur Cihantimur'un iade sürecinin beklenmesine ve eksik hususların giderilmesine hükmederek, duruşmayı 2 Aralık'a erteledi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-11 15:14 tarihinde otomatik derlenmiştir.*
