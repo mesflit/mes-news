@@ -1,0 +1,22 @@
+---
+title: Cumhurbaşkanı Erdoğan, otobüsü durdurup yanına gitmişti. "Unutamayacağım bir an"
+date: 2026-09-15 21:52
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-otobusu-durdurup-yanina-gitmisti-unutamayacagim-bir-an-1741987
+slug: 2026-09-15-cumhurbaskani-erdogan-otobusu-durdurup-yanina-gitmisti-unuta
+---
+
+# Cumhurbaşkanı Erdoğan, otobüsü durdurup yanına gitmişti. "Unutamayacağım bir an"
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-otobusu-durdurup-yanina-gitmisti-unutamayacagim-bir-an-1741987)  
+**Tarih:** 2026-09-15 21:52
+
+---
+
+## Haber İçeriği
+
+Samsun'da Cumhurbaşkanı Erdoğan'ın otobüsü durdurarak yanına gittiği engelli genç Emre Vural, "Unutamayacağım bir andı. Beni bu şekilde onurlandırması, hep hafızamda kalacak" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, 12 Eylül'de Samsun Şehir Hastanesi'nin açılışının ardından gençlik buluşması için Büyükşehir Belediyesi PETEK Gençlik Merkezi'ne hareket etmiş ve Atakum ilçesindeki Nişantaşı Kavşağı'nda daha önce de tanıdığı engelli Emre Vural'ı ve annesini görmüştü.&nbsp;&nbsp;Erdoğan, Vural'ı görünce şoföre otobüsü durdurması talimatını vermişti. Ardından otobüsten inerek engelli gencin yanına giden Erdoğan, bir süre onlarla sohbet etmişti.&nbsp;&nbsp;“O AN OTOBÜSÜN DURACAĞI, CUMHURBAŞKANIMIZIN AŞAĞI İNECEĞİ AKLIMIN UCUNDAN BİLE GEÇMEZDİ”&nbsp;Otobüsün durması ile büyük heyecan yaşadığını ifade eden Emre Vural, “Bugüne kadar Cumhurbaşkanımızla birçok kez görüştük. Aynı ortamlarda bulunduk. Ama en özeli, unutamayacağım an bu seferki Samsun'a gelişiydi. Sabah şehir hastanesi açılış programına katıldım. Tabii ki orada ciddi bir kalabalık vardı. Orada Cumhurbaşkanımızla görüşebilmek fırsatımız olmadı. Çünkü çok kalabalıktı. Program bitti. Annemle birlikte Atakum'a döndük. Tam evime doğru giderken ki programın yapılacağı Yalı Kafe benim evime çok yakın. O sırada karşıdan hem çakarlı araçların hem de otobüsün geldiğini gördüm. Bir hayli bir araç konvoyu vardı. Anneme de ‘bir duralım da el sallayalım' dedim. O an otobüsün duracağı, Cumhurbaşkanımızın aşağı ineceği aklımın ucundan bile geçmezdi” dedi.&nbsp;&nbsp;“Tam otobüs benim önümden geçerken Cumhurbaşkanımızla göz göze geldik.” diyen Vural, "O an içeride bir işaret yaptı Cumhurbaşkanımız. Otobüsü durdurdu, aşağıya indi. Konuştu, halimi hattımı sordu. Bir isteğimin olup olmadığını sordu. Bu hareket benim için gerçekten çok özeldi ve unutamayacağım bir andı. Aslında burada sadece ben kendim için mutlu olmadım. Mutlu olduğum konu şuydu: Bu ülkenin Cumhurbaşkanı yolda engelli bir vatandaşını görüp otobüsünü durdurup aşağı inerek halini hatırını sorması, bu çok kalpten çok samimi yapılan bir davranıştı" diye konuştu.Emre Vural“CUMHURBAŞKANIMIZIN ‘O OTOBÜSÜ DURDURUP YANINA İNMESEYDİM ALLAH'A BUNUN HESABINI VEREMEZDİM' SÖZÜ BENİ ÇOK ETKİLEDİ”&nbsp;Olay sonrası Gençlik Buluşması'nda aralarında geçen diyalogdan da bahseden Emre Vural, "Devamında Gençlik Buluşması'nın soru-cevap kısmında da söz hakkı bana geldiğinde ben soru sormak istemedim, duygularımı söyledim. Yaşadığım bu anı gençlerle paylaştım. Böyle bir liderimizin olduğunu vurguladım. Orada Cumhurbaşkanımızın yine bir sözü kalplerimize ciddi anlamda dokundu. Şu cümle çok hoşumuza gitti açıkçası: ‘Ben dedi o otobüsü durdurup yanına inmeseydim Allah'a bunun hesabını veremezdim.' Böyle bir lidere sahibiz. Böyle bir lidere sahip olduğumuz için de şükrediyorum. Allah başımızdan eksik etmesin inşallah" şeklinde konuştu.&nbsp;“BENİ BU ŞEKİLDE ONURLANDIRMASI, GURURLANDIRMASI HER ZAMAN HAFIZAMDA KALACAK”&nbsp;Cumhurbaşkanı Erdoğan'ın kendisi hakkında söylediği güzel sözleri her zaman hatırlayacağını dile getiren Vural, şunları söyledi:&nbsp;"Cumhurbaşkanımızla yaklaşık 12-13 yıldır hem Samsun programlarında hem de özellikle Karadeniz programlarında bir araya geliyoruz. Onun yanında olmak, onunla bir 2-3 saniye bile selamlaşmak gerçekten bana ciddi anlamda enerji katıyor. Bu Gençlik Buluşması'ndaki söylemleri, onun için benim özel olduğumu söylemesi, beni bu şekilde onurlandırması, gururlandırması her zaman hafızamda kalacak, sürekli kayıt halinde kalacak sözlerdi. Tabii ki bu ülkenin Cumhurbaşkanının benim hakkında bu sözleri söylemesi beni hem mutlu ediyor hem de gururlandırıyor."&nbsp;İki kardeş olan ve ablası da kendisi gibi kas hastası olan 35 yaşındaki Emre Vural, Cumhurbaşkanı Recep Tayyip Erdoğan'ın her Karadeniz ziyaretine gitmeye çalıştığını da sözlerine ekledi.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-15 21:52 tarihinde otomatik derlenmiştir.*
