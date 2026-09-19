@@ -1,0 +1,22 @@
+---
+title: Kozinoğlu soruşturması. Hasan Atilla Uğur'un ifadesi ortaya çıktı, 3 soru yanıtsız kaldı
+date: 2026-09-19 14:45
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-kozinoglu-sorusturmasi-hasan-atilla-ugurun-ifadesi-ortaya-cikti-3-soru-yanitsiz-kaldi-1742596
+slug: 2026-09-19-kozinoglu-sorusturmasi-hasan-atilla-ugurun-ifadesi-ortaya-ci
+---
+
+# Kozinoğlu soruşturması. Hasan Atilla Uğur'un ifadesi ortaya çıktı, 3 soru yanıtsız kaldı
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-kozinoglu-sorusturmasi-hasan-atilla-ugurun-ifadesi-ortaya-cikti-3-soru-yanitsiz-kaldi-1742596)  
+**Tarih:** 2026-09-19 14:45
+
+---
+
+## Haber İçeriği
+
+Eski MİT görevlisi Kaşif Kozinoğlu'un ölümüne ilişkin soruşturmada ev hapsine çarptırılan koğuş arkadaşı Hasan Atilla Uğur'un savcılık ifadesi ortaya çıktı. Ergenekon davasında tutuklu bulunduğu sırada, 2011 yılında Silivri'deki cezaevinde yaşamını yitiren eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu'nun ölümüyle ilgili dosya genişliyor.&nbsp;Soruşturmada son olarak dönemin eski savcıları Ali İşgören ile Necip Doğan tutuklandı. Kozinoğlu'nun koğuş arkadaşları Hasan Atilla Uğur ve Hasan Ataman Yıldırım içinse ev hapsi kararı verildi.&nbsp;Söz konusu gelişmenin ardından emekli asker Hasan Atilla Uğur'un savcılıkta verdiği ifadeye ulaşıldı.&nbsp;&nbsp;Savcılık, Kozinoğlu'na verilen dil altı hapı, kameralara yansıyan bardak görüntüsü ve elindeki cismi sordu. DİL ALTI HAPI SORUSU Uğur, Kozinoğlu'nun rahatsızlandığında kendisine seslendiğini ve yanına gittiğinde göğsünün sıkıştığını söylediğini anlattı.&nbsp;Bunun üzerine dil altı hapı verdiğini söyleyen Uğur, ilacı nereden temin ettiğini hatırlamadığını ileri sürdü:&nbsp;"(…) Ben de istediği dil altı hapını verdim ancak nereden alıp verdiğimi hatırlamıyorum. Tansiyon cihazını da nereden aldığımızı hatırlamıyorum."&nbsp;&nbsp;Savcılık, Uğur'a daha önce verdiği iki ifadeyi sordu. Savcılık kaynaklarından edinilen bilgiye göre; Uğur'un beyan ettiği tansiyon değerleri arasında farklılık vardı.&nbsp;Daha önceki ifadelerinde "Hiçbir görevli görevini savsaklamadan hakkıyla yapmıştır." dediği belirtilen Hasan Atilla Uğur, son ifadesinde "O ifadeler bana ait değildir." dedi. KAMERA KAYDINDAKİ DÖRT DAKİKA Kozinoğlu'nun yaşamını yitirdiği güne ait koğuştaki güvenlik kamerası görüntüleri de sorgu sırasında gündeme geldi.&nbsp;Savcılık, Uğur'a saat 18.40'ta Kaşif Kozinoğlu'nun odasına girdiğinin, yaklaşık dört dakika içeride kaldığının ve ardından elleri arkada şekilde çıkarak sağ elinde bir cisim bulunduğunun görüldüğünü belirtti.&nbsp;Tutanağa göre Uğur'un odadan çıkmasının yaklaşık 6 saniye ardından Kozinoğlu koğuşa girdi ve daha sonra sol eliyle kapıyı kapattı.&nbsp;Savcılığın, Uğur'un elinde görüldüğü belirtilen cismin ne olduğu yönündeki sorusuna ise Uğur "Elimde ne olduğunu hatırlamıyorum, bir cisim olduğunu da zannetmiyorum." yanıtını verdi. "BARDAĞI NEDEN GÖSTERDİĞİMİ HATIRLAMIYORUM" Ortaya çıkan güvenlik kamerası görüntülerinde bardak olduğu ileri sürülen bir cisim de yer almıştı.&nbsp;Savcılık, Hasan Ataman Yıldırım'ın kısa süre sonra Kozinoğlu'nun odasından elinde bardakla çıktığını ve bardağı Uğur'a gösterdiğinin görüldüğünü belirterek bunun nedenini sordu.&nbsp;Uğur ise "Bunun sebebini bilmiyorum, bardağı bana neden gösterdiğini de hatırlamıyorum." diyerek yanıt verdi.&nbsp;Hasan Atilla Uğur daha önce verdiği ifadede, Kozinoğlu'nun rahatsızlanmadan hemen önce "Benim odama uğrayıp sonra kendi odasına geçti." şeklinde beyanda bulunduğu hatırlatıldı.&nbsp;Uğur, yeni ifadesinde "Yanlış hatırlıyor olabilirim, odasına giderken bağırmış olabilir." dedi. AVUKATLAR FETÖ ŞÜPHESİNE DİKKAT ÇEKTİ İfadesinin devamında Kozinoğlu'nun ölümünün kasten gerçekleşip gerçekleşmediğinin araştırılmasını istediğini söyleyen Uğur, ölümün ardında örgütsel bir bağlantı bulunabileceği yönündeki kişisel kanaatini dile getirdi.&nbsp;Hasan Atilla Uğur'un avukatları ise dosyadaki FETÖ şüphesine dikkat çekti.&nbsp;Avukatlar, Uğur'un Kozinoğlu rahatsızlandıktan sonra yardım istediğini, ancak görevli personelin gelmediğini ve bu nedenle mutfaktan aldığı bazı cisimlerle demir kapıya vurarak yardım çağrısında bulunduğunu öne sürdü.&nbsp;Uğur'un avukatları, görevlilerin müdahalesinin geciktiğini belirterek, Uğur'un olayda kastı veya ihmali olmadığını savundu.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-19 14:45 tarihinde otomatik derlenmiştir.*
