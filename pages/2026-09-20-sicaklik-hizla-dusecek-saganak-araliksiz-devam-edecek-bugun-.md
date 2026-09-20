@@ -1,0 +1,22 @@
+---
+title: Sıcaklık hızla düşecek, sağanak aralıksız devam edecek. Bugün hava nasıl olacak?
+date: 2026-09-20 06:55
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-sicaklik-hizla-dusecek-saganak-araliksiz-devam-edecek-bugun-hava-nasil-olacak-1742640
+slug: 2026-09-20-sicaklik-hizla-dusecek-saganak-araliksiz-devam-edecek-bugun-
+---
+
+# Sıcaklık hızla düşecek, sağanak aralıksız devam edecek. Bugün hava nasıl olacak?
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-sicaklik-hizla-dusecek-saganak-araliksiz-devam-edecek-bugun-hava-nasil-olacak-1742640)  
+**Tarih:** 2026-09-20 06:55
+
+---
+
+## Haber İçeriği
+
+Bugün Türkiye'nin birçok bölgesinde gök gürültülü sağanak beklenirken Rize ve Artvin’in bazı ilçeleri için kuvvetli yağış uyarısı yapıldı. İstanbul’un kuzey kesimlerinde de yerel sağanak görülecek. BUGÜN HAVA NASIL OLACAK?&nbsp;Meteoroloji Genel Müdürlüğü (MGM) tarafından yapılan son değerlendirmelere göre, yurt genelinde hava bugün parçalı yer yer çok bulutlu olacak.&nbsp;Doğu Akdeniz'in Toroslar mevkii, Orta Karadeniz kıyıları, Doğu Karadeniz, Doğu Anadolu'nun kuzeydoğusu, Bolu, Ankara, Çankırı, Kırıkkale çevreleri, Tekirdağ ve Kırklareli'nin doğusu ile İstanbul'un kuzey kesimlerinin sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor. YEREL KUVVETLİ YAĞIŞ UYARISI&nbsp;Yağışların Rize'nin doğu ilçeleri ile Artvin'in kuzey ilçelerinde yerel olarak kuvvetli olması bekleniyor. Sabah saatlerinde Marmara'nın doğusu, İç Ege, Akdeniz'in iç kesimleri, İç Anadolu ile Karadeniz'in iç kesimlerinde pus ve yer yer sis bekleniyor.&nbsp;SEL, SU BASKINI, HEYELANA DİKKAT&nbsp;Yağışların, Rize'nin doğusu (Pazar, Ardeşen ve Fındıklı) ile Artvin'in kuzeyinde (Arhavi, Hopa ve Kemalpaşa) yerel olarak kuvvetli sağanak ve gök gürültülü sağanak yağış beklendiğinden sel, su baskını, heyelan, yıldırım ve ulaşımda aksamalar gibi olumsuzluklara karşı dikkatli olunması istendi.&nbsp;Hava sıcaklıklarındaysa bugün önemli bir değişiklik beklenmiyor. BÖLGE BÖLGE SON DURUMMarmara'da hava parçalı ve az bulutlu. Tekirdağ ve Kırklareli'nin doğusu ile İstanbul'un kuzey kesimlerinin yerel sağanak yağışlı geçeceği tahmin ediliyor. Sabah saatlerinde bölgenin doğusunda pus ve yer yer sis bekleniyor.&nbsp;İstanbul 26, Çanakkale 28, Bursa 26 derece.&nbsp;Ege'de de havanın parçalı ve az bulutlu geçeceği tahmin ediliyor. Sabah saatlerinde bölgenin iç kesimlerinde pus ve yer yer sis bekleniyor.&nbsp;Denizli 31, İzmir 30, Uşak 27 derece.&nbsp;Akdeniz'de bugün parçalı ve az bulutlu, zamanla bölgenin doğusu yer yer çok bulutlu, öğle saatlerinden sonra Doğu Akdeniz Toroslar Mevkiinin yerel sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor. Sabah saatlerinde bölgenin iç kesimlerinde pus ve yer yer sis bekleniyor.&nbsp;Adana 33, Antalya 33, Hatay 29 derece. İç Anadolu bölgesinde havanın parçalı bulutlu, öğle saatlerinden sonra Ankara, Kırıkkale ve Çankırı çevrelerinin yerel sağanak yağışlı geçeceği tahmin ediliyor. Sabah saatlerinde bölge genelinde pus ve yer yer sis bekleniyor.&nbsp;Ankara 23, Eskişehir 26, Konya 24 derece.&nbsp;Batı Karadeniz'in parçalı yer yer çok bulutlu, öğleden sonra Bolu ve Sinop çevrelerinin yerel sağanak yağışlı geçeceği tahmin ediliyor. Sabah ve gece saatlerinde bölgenin iç kesimlerinde pus ve yer yer sis bekleniyor.&nbsp;Bolu 24, Düzce 25, Sinop 24 derece.&nbsp;Orta ve Doğu Karadeniz'de ise parçalı ve çok bulutlu bir hava bekleniyor. Orta Karadeniz kıyıları ile Doğu Karadeniz'in aralıklı sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor. Yağışların Rize'nin doğusu ve Artvin'in kuzey kesimlerinde yerel olmak üzere kuvvetli olması bekleniyor. Sabah ve gece saatlerinde bölgenin iç kesimlerinde pus ve yer yer sis bekleniyor.&nbsp;Amasya 25, Rize 24, Samsun 25 derece.&nbsp;Doğu Anadolu'nun kuzeydoğu kesimlerinin aralıklı sağanak ve gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor.&nbsp;Erzurum 22, Kars 22, Malatya 29 derece.&nbsp;Güneydoğu Anadolu'nun da parçalı ve az bulutlu geçeceği tahmin ediliyor.&nbsp;Diyarbakır 33, Gaziantep 32, Mardin 29 derece. BU HAFTA HAVA NASIL OLACAK?Ülke genelinde mevsim normallerinde seyreden hava sıcakları salı gününden itibaren yurdun kuzeybatı kesimlerinden başlayarak azalacak. Sıcaklıklar, yurdun kuzey, iç ve batı kesimlerinde mevsim normallerinin altına düşecek.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-20 06:55 tarihinde otomatik derlenmiştir.*
