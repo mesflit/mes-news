@@ -1,0 +1,22 @@
+---
+title: Pusula Holding soruşturması. İki yöneticinin yurt dışına para transferleri belirlendi
+date: 2026-09-20 18:17
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/pusula-holding-sorusturmasi-iki-yoneticinin-yurtdisina-para-transferi-belirlendi-1742742
+slug: 2026-09-20-pusula-holding-sorusturmasi-iki-yoneticinin-yurt-disina-para
+---
+
+# Pusula Holding soruşturması. İki yöneticinin yurt dışına para transferleri belirlendi
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/pusula-holding-sorusturmasi-iki-yoneticinin-yurtdisina-para-transferi-belirlendi-1742742)  
+**Tarih:** 2026-09-20 18:17
+
+---
+
+## Haber İçeriği
+
+Fon soruşturmasında yeni bir gelişme yaşandı. Pusula Holding'in iki yöneticisi tarafından İsviçre hesaplarına 15 milyon dolar ve 25 milyon Euro transfer edildiği belirlendi. İstanbul Cumhuriyet Başsavcılığınca yürütülen fon soruşturmasında yapılan ilk tespitlere göre, Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan'ın hesabından İsviçre'deki bir hesaba 15 milyon dolar, Pusula Portföy Yönetimi A.Ş. Yönetim Kurulu Başkanı Muhammed Yarız'ın hesabından ise yine İsviçre'deki bir hesaba 25 milyon euro para transfer edildiği belirlendi.Başsavcılığın Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen soruşturmalar kapsamında Pusula Portföy Yönetim Kurulu Başkanı Muhammed Yarız ve Destek Holding'in sahibi Altunç Kumova'nın da aralarında olduğu 4 şüpheli tutuklanmıştı.&nbsp;Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan ile Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ve yöneticileri Alper Öztürk, Emre Alkin ve Kerem Alkin de gözaltına alındı.NİHAT KIRMIZI DA GÖZALTINDA&nbsp;Son olarak İstanbul Topkapı Üniversitesi Mütevelli Heyeti Başkanı ve Doğa Sigorta Yönetim Kurulu Başkanı olan iş insanı Nihat Kırmızı da gözaltına alındı.&nbsp;Kırmızı'nın soruşturma kapsamında emniyetteki işlemlerinin sürdüğü öğrenildi.MASAK MAL VARLIĞI TEDBİRİ İSTEMİŞTİMali Suçları Araştırma Kurulu (MASAK), sermaye piyasalarında usulsüzlük iddialarıyla gündeme gelen fon şirketlerinin sahip ve yöneticileri hakkında bankalar ile diğer finansal kuruluşları uyararak malvarlığının kaçırılmasına yönelik işlemler bakımından işlem ertelemesi başta olmak üzere 5549 sayılı Kanun kapsamındaki tedbirlerin uygulanmasını istedi.YURT DIŞI PARA VE KRİPTO HAREKETLERİ İNCELENECEKİstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında, 17 Eylül'de Mali Suçları Araştırma Kurulu Başkanlığına (MASAK) müzekkere gönderildi. Müzekkerede, Pusula Finans Holding AŞ, Tera Yatırım Menkul Değerler AŞ, Hedef Holding AŞ ve Bulls Yatırım Menkul Değerler AŞ ile bunların alt şirketlerinin yöneticilerinin açık kimlik bilgilerinin tespit edilmesi ve mali verilerinin temin edilmesi talep edildi.&nbsp;Başsavcılığın talebi doğrultusunda, tespit edilecek yöneticilerin 2024 yılından günümüze kadar yurt dışına gerçekleştirdikleri para ve kripto varlık transferleri ile tüm para giriş ve çıkışlarının ham veri halinde Başsavcılığa gönderilmesi istendi. Soruşturma kapsamında ayrıca 4 fon yöneticisi ile birinci derece yakınlarının mali hareketlerinin de inceleneceği belirtildi.&nbsp;BİRİNCİ DERECE YAKINLARININ HESAPLARI DA ARAŞTIRILACAK&nbsp;MASAK incelemesi kapsamında fon yöneticilerinin birinci derece yakınlarının hesap ve varlık hareketlerinin de araştırılması talep edildi. İncelemeyle, söz konusu kişiler üzerinden yurt dışına para veya kripto varlık transferi yapılıp yapılmadığının tespit edilmesinin amaçlandığı öğrenildi. NİHAT KIRMIZI KİMDİR?Nihat Kırmızı ilkokul, ortaokul ve liseyi İstanbul’da bitirdikten sonra Selçuk Üniversitesi İletişim Fakültesi Gazetecilik Bölümünde lisansını tamamladı, yüksek lisansını Marmara Üniversitesi Sosyal Bilimler Enstitüsü, İşletme Anabilim Dalında Muhasebe-Finans üzerine yaptı. Kırmızı ayrıca, İngiltere’de University of Lancashire’da lisans derecesinde Hukuk eğitimi alan Kırmızı, tezini; ‘ Artificial Intelligence Integration in Company Management’ üzerine yaptı.&nbsp;2013 yılında Doğa Sigorta A.Ş.’yi kurarak CEO ve Yönetim Kurulu Başkanı olarak görev alıyor. Ayrıca Kırmızı Holding’in Kurucu Başkanı olarak halen Yönetim Kurulu Üyesi olarak görevini sürdürüyor.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-20 18:17 tarihinde otomatik derlenmiştir.*
