@@ -1,0 +1,22 @@
+---
+title: Fon soruşturmasında 7 fon mercek altında. Kuruluşundan bugüne tüm kayıtlar istendi
+date: 2026-09-26 10:18
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-fon-mercek-altinda-kurulusundan-bugune-tum-kayitlar-istendi-1743548
+slug: 2026-09-26-fon-sorusturmasinda-7-fon-mercek-altinda-kurulusundan-bugune
+---
+
+# Fon soruşturmasında 7 fon mercek altında. Kuruluşundan bugüne tüm kayıtlar istendi
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-fon-mercek-altinda-kurulusundan-bugune-tum-kayitlar-istendi-1743548)  
+**Tarih:** 2026-09-26 10:18
+
+---
+
+## Haber İçeriği
+
+İstanbul Cumhuriyet Başsavcılığı, 7 fonun kuruluşundan bu yana tüm kayıtları istedi. Son 3 ayın çıkış trafiği mercek altına alındı. İstanbul Cumhuriyet Başsavcılığı, tarafından sermaye piyasalarında gerçekleşen işlemlere ilişkin soruşturma sürüyor.&nbsp;Suçtan kaynaklanan malvarlığı değerlerini aklama ve Sermaye Piyasası Kanunu’na muhalefet suçları kapsamında yürütülen fon soruşturmasında yeni gelişme yaşandı.&nbsp;BAŞSAVCILIKTAN TALİMAT&nbsp;Başsavcılık, Pusula Finans Anonim Şirketi, Tera Yatırım Menkul Değerler A.Ş., Hedef Portföy Yönetimi A.Ş., Bulls Yatırım Menkul Değerler A.Ş., A1 Capital Menkul Değerler A.Ş., Atlas Menkul Kıymetler Yatırım Ortaklığı ile Pardus Menkul Kıymetler A.Ş. bağlantılı fonlara ilişkin kayıtların incelenmesi talep etti.&nbsp;7 yatırım şirketine ait fonların para ve yatırımcı trafiğinin ortaya çıkarılması için Merkezi Kayıt Kuruluşu'na (MKK) müzekkere yazan Başsavcılık, fonların kuruluşlarından tasfiye tarihine kadar yatırımcı bazlı alım-satım verilerini istedi.&nbsp;SON 3 AYIN ÇIKIŞ TRAFİĞİ DE MERCEK ALTINDA&nbsp;Başsavcılık ayrıca, tüm kayıtların yanı sıra özellikle temmuz, ağustos ve eylül aylarında fonlardan çıkış yapan yatırımcıların adet, tutar ve bakiye bilgilerinin de acil gönderilmesini talep etti.&nbsp;Bu kayıtlarla, tasfiye sürecine yaklaşılırken fonlardan gerçekleşen çıkışların büyüklüğü, zamanlaması ve yatırımcı bazındaki dağılımı soruşturma dosyasında incelenecek.&nbsp;Başsavcılığın özellikle tasfiye öncesindeki son üç aylık döneme ilişkin ayrıca veri istemesi, soruşturmanın bundan sonraki aşamasında fonlardan çıkış yapan yatırımcılar ile çıkışların tutar ve zamanlamasının ayrıntılı şekilde inceleneceğini ortaya koyuyor.&nbsp;MKK KAYITLARI DA DOSYAYA GİRECEK&nbsp;Aklama Suçları Soruşturma Bürosunca gönderilen müzekkere kapsamında MKK tarafından gönderilecek verilerin, soruşturma dosyasındaki diğer mali kayıtlarla birlikte değerlendirilmesi bekleniyor.&nbsp;SORUŞTURMA NASIL BAŞLADI?&nbsp;Sermaye Piyasası Kurulu da 17 Eylül’de aldığı kararla 7 portföy yönetim şirketinin TEFAS’ta işlem gören fonlarını alım-satıma kapattı ve toplam 131 yatırım fonunu tasfiye sürecine aldı.&nbsp;Aynı süreçte SPK, bazı şirket hisselerinde manipülatif işlemler yapıldığı iddiasıyla 38 kişi hakkında suç duyurusunda bulundu ve bu kişiler hakkında işlem yasağı kararı aldı.&nbsp;Soruşturma 22 Eylül’de de genişledi. İstanbul ve Aydın'da düzenlenen eş zamanlı operasyonlarda, haklarında yakalama kararı bulunan 15 şüpheliden 14'ü yakalanarak gözaltına alındı. Bir şüphelinin ise yurt dışında olduğu tespit edildi. Ayrıca soruşturmayla bağlantılı dokuz şirketin yönetici ve yetkililerinin para ve mal varlığı hareketlerinin dondurulduğu bildirildi.&nbsp;TOPLAM TUTUKLU SAYISI&nbsp;26 Eylül Cumartesi sabahı itibarıyla soruşturma kapsamında toplam tutuklu sayısı ise 51'e yükseldi.&nbsp;Soruşturma kapsamında Pusula Portföy Yönetim Kurulu Başkanı Muhammet Yarız, 15 Eylül'de tutuklandı.&nbsp;Derinleştirilen soruşturmada, Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen, Tera Yatırım Holding Yönetim Kurulu Üyesi Emre Alkin, Tera Yatırım Bağımsız Yönetim Kurulu Üyesi Kerem Alkin, Tera Portföy Genel Müdürü Alper Öztürk, Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan, Pusula Portföy Yönetimi AŞ Yönetim Kurulu Başkanı Muhammed Yarız, Namık Kemal Gökalp, Altunç Kumova ve İbrahim Bekçi de tutuklular arasında yer alıyor.&nbsp;Ayrıca, tutuklu isimler arasında Merkez Bankası eski Başkan Yardımcısı Erkan Kilimci de var. 2016 ile 2018 yılları arasında Merkez Bankası'nda görev yapan Kilimci, yakın zamana kadar Tera Finansal Yatırımlar Holding AŞ Yönetim Kurulu Başkan Vekili ve Genel Müdürü olarak görev yapıyordu.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-26 10:18 tarihinde otomatik derlenmiştir.*
