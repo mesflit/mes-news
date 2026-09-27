@@ -1,0 +1,22 @@
+---
+title: Rüya gibi başladı, 1 aylık evliliği hayatını kabusa çevirdi
+date: 2026-09-27 17:31
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/galeri-ruya-gibi-basladi-1-aylik-evliligi-hayatini-kabusa-cevirdi-1743766
+slug: 2026-09-27-ruya-gibi-basladi-1-aylik-evliligi-hayatini-kabusa-cevirdi
+---
+
+# Rüya gibi başladı, 1 aylık evliliği hayatını kabusa çevirdi
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/galeri-ruya-gibi-basladi-1-aylik-evliligi-hayatini-kabusa-cevirdi-1743766)  
+**Tarih:** 2026-09-27 17:31
+
+---
+
+## Haber İçeriği
+
+Şanlıurfa'da boşanma aşamasındaki Ömer Atılgan, eşinin düğün altınlarıyla birlikte kaçtığını öne sürdü. Atılgan, eşinin sevgilisi tarafından ölümle tehdit edildiğini de iddia etti. Şanlıurfa'da İ.A. (26) ile 24.04.2026 tarihinde evlenen Ömer Atılgan (36), sadece bir ay süren evliliği nedeniyle hayatının kabusa dönüştüğünü ifade etti.&nbsp;İ.A. ile tanıştıktan 1 ay sonra kadının kendisinden gebe olduğunu söylediğini ve bunun için hemen evlilik işlemleri yaptıklarını belirten Atılgan, İ.A.'nın evlilik aşamasında 1 aylık bebeği ilaç temin ederek aldırdığını iddia etti.&nbsp;Ömer Atılgan, bu durumu İ.A.'ya ait cep telefonundan yapılan yazışmalarından öğrendiğini belirtti. Atılgan acil bir evlilik sonrası sadece 1 ay beraber kaldığı eşinin, düğün altınlarıyla birlikte kaçtığını ve dolandırıldığını öne sürdü.&nbsp;Eşinin birden çok sevgilisi olduğunu ve hem eşinden hem de eşinin sevgililerinden ölüm tehditleri aldığını belirten Atılgan, can güvenliğinden şüphe ettiğini söyledi. Atılgan, ölüm tehditleri sürerken son olarak ise 1 hafta önce yolunun kesildiğini ve vücudunun çeşitli yerlerinden bıçaklandığını ileri sürdü. ÇOCUĞU İLAÇLA ÖLDÜRDÜĞÜ İDDİASI “Mutlu bir evlilik yapmak isterken hayatım cehenneme döndü” diyen Atılgan: şunları söyledi:&nbsp;"Tanıştığım İ.A. isimli kadın bir ay içerisinde bana, benden gebe olduğunu söyledi ve evlilik yaptık. Bir ay içerisinde yaptığımız evlilik sonrası ben bu çocuğun benden olup olmadığını araştırırken o ise bu çocuğu kaçak yollarla ilaç temin edip aldırdı. Ve bu işin içinde annesi ile bir sağlık memurunun da olduğu mesaj kayıtlarında bellidir. Annesi hesabından para göndererek ilacı temin etti ve çocuğu bu şekilde düşürme yaptılar.&nbsp;Olay sonrası savcılığa giderek suç duyurusunda bulundum. Suç duyurusu sonrası evlilik yaptığım kadından altınlarımı istedim. O da bana, ‘altınlarla hayatımı yaşıyorum, herkesi senin gibi kandırıyorum, şimdi de seni kandırıyorum' dedi ve bu şekilde mesaj kayıtları bende mevcuttur. Kendi adına kayıtlı numaralardan bana gönderilmiştir.&nbsp;Bu çocuk düşürme ile ilgili şikayette bulunacağımı dediğim zaman beni ölümle tehdit etmiştir ve bunun için de ayrıca savcılığa giderek suç duyurusunda bulundum. Şu an haysiyetsiz bir hayat yaşamaktadır. Her gün farklı bir erkekle alkollü mekanlarda takılıyor, dans ediyor. Hepsinin fotoğraf ve videosu bende mevcuttur. Bunu da boşanma dosyası davama sunmuşum" "ÇOK MAĞDUR EDİLDİM, DOLANDIRILDIM" Tehdit edildiğini söyleyen Atılgan, şunları kaydetti:"Bu İ.A. isimli kişiden ölüm tehdidinden dolayı 2 ay uzaklaştırma kararı aldırdım. Karara rağmen 15 Eylül'de erkek arkadaşı olarak bildiğim kişinin fotoğrafını çektiğim için beni yine ölümle tehdit ettiler. Daha dün kız kardeşi tarafından yine aynı şekilde ölüm tehdidi mesajları bana geldi. Bu durumda çok mağdur edildim, dolandırıldım. Altınları meğerse evlilik için yaptığını, kendi rızasıyla beyanıyla mesajlarında söylüyor.&nbsp;&nbsp;Benden önce de yine aynı şekilde biriyle evlilik yapmış ve iki ay evli kalmıştır. Bu da resmi kayıtlarda mevcuttur ve boşanma davamızda yer alıyor. Ben Cumhuriyet Başsavcılığına bu İ.A. hakkında birçok kez şikayette bulundum. Altınlarımla ilgili, bana yönelik ölüm tehditleriyle ilgili, çocuk düşürme ve benimle evliyken başka hesaplardan, kendi hesabına para gelme konusu ile ilgili suç duyurusunda bulundum.&nbsp;&nbsp;Başka kişilerin hesabından kendisinin hesabına farklı tarihlerde beşer bin lira tutar geldiklerini hep aynı erkekler ve HTS kayıtlarında görüştüğü erkeklerle aynı şekilde ve her akşam farklı bir alkollü mekanda beraber takıldıkları ve takıldığı insanların her dakika beni tehdit etmesinden kaynaklı can güvenliğim yoktur" diye konuştu. Can güvenliği olmadığını söyleyen Atılgan, kendisine koruma sağlanmasını ve yaklaşık 1 milyon lira olan zararının teminini istedi."
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-27 17:31 tarihinde otomatik derlenmiştir.*
