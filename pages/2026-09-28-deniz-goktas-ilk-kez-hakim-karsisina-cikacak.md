@@ -1,0 +1,22 @@
+---
+title: Deniz Göktaş ilk kez hakim karşısına çıkacak
+date: 2026-09-28 07:42
+source: ntv.com.tr
+source_url: https://www.ntv.com.tr/turkiye/deniz-goktas-ilk-kez-hakim-karsisina-cikacak-1743826
+slug: 2026-09-28-deniz-goktas-ilk-kez-hakim-karsisina-cikacak
+---
+
+# Deniz Göktaş ilk kez hakim karşısına çıkacak
+
+**Kaynak:** [ntv.com.tr](https://www.ntv.com.tr/turkiye/deniz-goktas-ilk-kez-hakim-karsisina-cikacak-1743826)  
+**Tarih:** 2026-09-28 07:42
+
+---
+
+## Haber İçeriği
+
+Deniz Göktaş, 12 yıla kadar hapis cezası talebiyle yargılandığı davada bugün ilk kez hakim karşısına çıkacak. İstanbul Cumhuriyet Başsavcılığı tarafından, sosyal medya platformlarında yayınladığı videolarda suç unsuru bulunduğu gerekçesiyle başlatılan soruşturma kapsamında, “Cumhurbaşkanına hakaret”, “halkı kin ve düşmanlığa tahrik ve aşağılama” ile “suçu ve suçluyu övme” suçlarından 2 yıl 7 aydan 12 yıla kadar hapis cezası talebiyle tutuklanan Deniz Göktaş, bugün hakim karşısına çıkacak.&nbsp;&nbsp;Duruşma, İstanbul 14’üncü Asliye Ceza Mahkemesi’nde salon kapasitesinin yetersiz olması nedeniyle İstanbul 4’üncü Ağır Ceza Mahkemesi’nin duruşma salonunda görülecek.&nbsp;İDDİANAMEDEN AYRINTILAR&nbsp;İddianamede, şüphelinin Cumhurbaşkanı Recep Tayyip Erdoğan'la ilgili, YouTube'da yer alan bir videodaki söylemlerinin "eleştiri sınırlarını aşan ve Cumhurbaşkanı'nın toplum nezdindeki şeref, onur ile saygınlığını rencide edecek boyutta" olduğu kaydedilmişti.&nbsp;&nbsp;Göktaş'ın "halkın din bakımından farklı özelliklere sahip bir kesimini, diğer bir kesimi aleyhine kin ve düşmanlığa alenen tahrik edici" söylemlerde bulunduğu da ileri sürülen iddianamede İslam dininin kutsal kitabı olan Kur'an-ı Kerim'le ilgili halkın din bakımından farklı özelliklere sahip bir kesimini, diğer bir kesimi aleyhine kin ve düşmanlığa alenen tahrik edici söylemlerde bulunduğu iddia edilmişti.&nbsp;Şüphelinin gösterisinde sarf ettiği bu sözlerin toplumsal barışı zedeleyici, ayrıştırıcı ve kutuplaştırıcı mahiyet arz ettiği, dini inançları gereği denize kapalı kıyafetle giren kadınları hedef alıp, nefret söyleminde bulunduğu, bu nedenle 500'ü aşkın CİMER başvurusunun yapıldığı anlatılan iddianamede, Göktaş'ın sarf ettiği sözlerin toplumun geniş kesimlerinde infial uyandırmaya elverişli olduğu, kamu güvenliği açısından açık ve yakın bir tehlikeyi ortaya çıkardığının anlaşıldığı öne sürülmüştü.&nbsp;NE OLMUŞTU?&nbsp;"Cumhurbaşkanına Hakaret ve "Haklı Kin ve Düşmanlığa Tahrik ve Aşağılama" tutuklanan Göktaş hakkında tutukluluğuna yapılan itiraz sonrası tahliye kararı verilmişti.&nbsp;Tahliye kararının ardından Göktaş, bu sefer "Basın Yolu ile Suçu ve Suçluyu Övme" suçundan tutuklanmıştı.&nbsp;“İNANÇLI İNSANI KIRMAK GİBİ BİR AMACIM KESİNLİKLE YOKTUR”&nbsp;Tutuklanmadan önce verdiği emniyet ifadesinde kendisine atfedilen suçlamayı kabul etmediğini ifade eden Göktaş, gösterisini uzun süredir Türkiye'nin birçok şehrinde sahnelediğini, böyle bir kastı olmadığını ileri sürmüştü.&nbsp;“Bu gösteri benim yaklaşık 3 yıldır Türkiye'nin çeşitli şehirlerinde yapmış olduğum bir gösteriye aittir. 100 binin üzerinde seyirci bu gösterimi izledi ve hiçbirinden bu bölüme ilişkin incindiklerine dair bir şikayet gelmedi.” ifadelerini kullanan Göktaş, gösterisi boyunca birçok konuda konuştuğunu dile getirip şöyle devam etmişti:&nbsp;“Sadece dindarlar değil, her türlü politik görüş ya da popüler figür hakkında konuşmalarım vardır. Burada da kötü bir şey demiyorum. ‘Favori kitabım' diyorum. ‘Çeviride sorun var' cümlemi de yıllardır duyduğum meal tartışmalarına atıf olarak söylüyorum. İnançlı bir insanı kırmak gibi bir amacım kesinlikle yoktur. Böyle bir yorumu günlük hayatta bir seyirciden duysam üzülürdüm.”&nbsp;“CUMHURBAŞKANINI AŞAĞILAMAK GİBİ BİR NİYETİM YOK”&nbsp;İfadesinde "Cumhurbaşkanına hakaret" suçlamasına da değinen Göktaş, sözlerinin mizah kapsamında değerlendirilmesi gerektiğini savunup "Herhangi bir şekilde Cumhurbaşkanını aşağılamak gibi bir niyetim yok. ‘Diktatör' kelimesi siyasi bir nitelemedir ve sık sık kamuoyuna açık bir şekilde tartışılan konudur. Demokrat, otokrat gibi bir kelimedir sadece. Gösteri boyunca bu tarz popüler figürler, ideolojiler ve Türkiye'ye dair sosyolojik olaylara yaptığım gibi mizahi bir yaklaşımdır, başkaca bir amacım yoktur. Üzerime atılı olan suçlamaları kabul etmiyorum." ifadelerini kullanmıştı.
+
+---
+
+*Bu haber **Mes-News** otomasyonu ile 2026-09-28 07:42 tarihinde otomatik derlenmiştir.*
